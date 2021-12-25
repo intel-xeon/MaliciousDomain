@@ -12,6 +12,7 @@ http://1.189.26.9:41939/bin.sh
 http://1.189.26.9:41939/i
 http://1.189.26.9:41939/Mozi.a
 http://1.189.26.9:41939/Mozi.m
+http://1.189.91.133:47883/Mozi.m
 http://1.190.217.254:54623/bin.sh
 http://1.190.217.254:54623/i
 http://1.190.217.254:54623/Mozi.m
@@ -151,6 +152,7 @@ http://1.246.223.94:1142/i
 http://1.246.223.94:1142/Mozi.a
 http://1.246.223.94:1142/Mozi.m
 http://1.34.132.249:50872/.i
+http://1.34.208.53:36105/.i
 http://1.36.221.101:11530/.i
 http://1.60.87.71:35429/Mozi.m
 http://1.62.117.220:46310/Mozi.a
@@ -334,7 +336,6 @@ http://106.1.6.52:32909/mozi.m
 http://106.1.89.145:43143/bin.sh
 http://106.1.89.145:43143/i
 http://106.1.89.145:43143/Mozi.m
-http://106.1.89.60:60975/bin.sh
 http://106.1.89.60:60975/i
 http://106.1.89.60:60975/Mozi.m
 http://106.104.175.140:47667/mozi.m
@@ -358,7 +359,6 @@ http://106.247.101.230:48581/Mozi.m
 http://106.43.108.110:35429/Mozi.m
 http://106.5.166.226:38176/Mozi.a
 http://107.13.39.147:36108/.i
-http://107.142.171.93:40427/bin.sh
 http://107.142.171.93:40427/i
 http://107.172.198.205/fuckjewishpeople.sh
 http://107.172.214.23:1234/svhostd.jpg
@@ -603,7 +603,6 @@ http://111.38.103.66:57272/i
 http://111.38.103.66:57272/Mozi.m
 http://111.38.104.15:43506/bin.sh
 http://111.38.104.15:43506/Mozi.m
-http://111.38.106.128:39775/bin.sh
 http://111.38.106.128:39775/i
 http://111.38.106.128:39775/Mozi.a
 http://111.38.106.128:39775/Mozi.m
@@ -636,6 +635,7 @@ http://112.123.183.248:19346/i
 http://112.123.60.252:34654/Mozi.m
 http://112.133.192.207:32997/Mozi.m
 http://112.133.196.132:39433/Mozi.a
+http://112.133.196.132:39433/Mozi.m
 http://112.147.92.51:51130/.i
 http://112.167.165.139:54491/Mozi.m
 http://112.167.229.237:41430/.i
@@ -773,6 +773,7 @@ http://112.246.85.146:39097/Mozi.m
 http://112.247.100.227:49092/Mozi.m
 http://112.247.15.60:59952/i
 http://112.247.15.60:59952/Mozi.m
+http://112.247.150.34:50857/Mozi.m
 http://112.247.158.34:59636/Mozi.a
 http://112.247.158.34:59636/Mozi.m
 http://112.247.163.183:37110/mozi.a
@@ -866,6 +867,7 @@ http://112.248.190.107:45108/Mozi.m
 http://112.248.191.77:43212/i
 http://112.248.191.77:43212/Mozi.m
 http://112.248.2.152:53790/Mozi.m
+http://112.248.245.58:44472/Mozi.m
 http://112.248.246.39:33525/i
 http://112.248.246.39:33525/Mozi.m
 http://112.248.253.136:44207/Mozi.m
@@ -965,6 +967,7 @@ http://112.27.123.173:49704/Mozi.m
 http://112.27.126.243:44324/i
 http://112.27.235.187:58459/Mozi.a
 http://112.27.246.152:50896/bin.sh
+http://112.27.246.152:50896/i
 http://112.27.246.152:50896/Mozi.a
 http://112.27.246.152:50896/Mozi.m
 http://112.27.80.121:42898/bin.sh
@@ -978,9 +981,10 @@ http://112.27.87.130:51876/i
 http://112.27.87.130:51876/Mozi.a
 http://112.27.87.130:51876/Mozi.m
 http://112.27.87.213:44575/Mozi.m
+http://112.30.1.119:38493/Mozi.m
+http://112.30.1.139:59080/bin.sh
 http://112.30.1.139:59080/i
 http://112.30.1.139:59080/Mozi.m
-http://112.30.1.149:45267/Mozi.m
 http://112.30.1.150:34613/bin.sh
 http://112.30.1.150:34613/i
 http://112.30.1.150:34613/Mozi.a
@@ -1045,6 +1049,9 @@ http://112.30.110.52:37856/bin.sh
 http://112.30.110.52:37856/i
 http://112.30.110.52:37856/Mozi.m
 http://112.30.110.55:56267/i
+http://112.30.110.55:56267/Mozi.m
+http://112.30.110.57:59796/i
+http://112.30.110.57:59796/Mozi.m
 http://112.30.110.58:50303/Mozi.a
 http://112.30.110.58:50303/Mozi.m
 http://112.30.110.60:51160/bin.sh
@@ -1055,7 +1062,6 @@ http://112.30.110.65:52534/Mozi.a
 http://112.30.35.237:49990/bin.sh
 http://112.30.35.237:49990/i
 http://112.30.35.237:49990/Mozi.a
-http://112.30.35.237:49990/Mozi.m
 http://112.30.37.188:44585/Mozi.m
 http://112.30.38.98:50513/bin.sh
 http://112.30.38.98:50513/i
@@ -1186,7 +1192,6 @@ http://113.118.25.149:33836/bin.sh
 http://113.118.25.149:33836/Mozi.m
 http://113.118.251.203:53536/Mozi.m
 http://113.123.98.8:47013/Mozi.m
-http://113.160.100.172/scripts/23s
 http://113.160.8.118:42906/i
 http://113.161.58.249:45864/Mozi.m
 http://113.161.61.111:40316/Mozi.m
@@ -1197,7 +1202,7 @@ http://113.17.176.111:39668/Mozi.a
 http://113.17.176.111:39668/Mozi.m
 http://113.178.236.18:37732/mozi.m
 http://113.178.236.56:47993/Mozi.m
-http://113.178.239.73:51712/Mozi.m
+http://113.178.238.24:52675/Mozi.m
 http://113.179.26.170:39940/Mozi.m
 http://113.180.172.7:36992/bin.sh
 http://113.180.172.7:36992/Mozi.m
@@ -1415,6 +1420,7 @@ http://115.226.70.219:55937/Mozi.m
 http://115.23.112.218:40530/.i
 http://115.230.87.53:36460/Mozi.m
 http://115.230.90.15:35279/Mozi.a
+http://115.235.85.232:37743/Mozi.a
 http://115.237.239.159:56590/i
 http://115.237.239.159:56590/Mozi.m
 http://115.45.178.12:38457/bin.sh
@@ -1528,7 +1534,6 @@ http://115.55.228.223:34502/Mozi.m
 http://115.55.32.9:58464/Mozi.m
 http://115.55.4.160:37446/Mozi.m
 http://115.55.63.5:60647/Mozi.m
-http://115.55.67.82:60970/Mozi.m
 http://115.55.9.170:51076/Mozi.m
 http://115.56.10.248:39895/i
 http://115.56.101.211:48826/Mozi.m
@@ -1611,7 +1616,6 @@ http://115.63.207.47:55163/Mozi.a
 http://115.63.207.47:55163/Mozi.m
 http://115.63.48.167:59662/Mozi.m
 http://115.63.50.16:48982/Mozi.m
-http://115.63.51.209:40221/Mozi.m
 http://115.63.51.229:58139/Mozi.m
 http://115.63.52.67:59750/Mozi.m
 http://115.63.54.177:39765/Mozi.m
@@ -1620,6 +1624,7 @@ http://115.74.30.128:19072/.i
 http://115.75.191.22:26695/.i
 http://115.75.217.79:48910/.i
 http://115.96.51.34:49454/Mozi.m
+http://115.98.202.254:56490/Mozi.m
 http://116.113.183.182:39650/Mozi.a
 http://116.113.183.182:39650/Mozi.m
 http://116.131.225.82:39732/bin.sh
@@ -1738,6 +1743,7 @@ http://117.195.95.232:44969/bin.sh
 http://117.195.95.232:44969/i
 http://117.195.95.232:44969/Mozi.m
 http://117.196.16.100:51194/mozi.m
+http://117.196.30.63:49404/Mozi.m
 http://117.196.49.61:39068/Mozi.m
 http://117.196.55.146:39553/Mozi.m
 http://117.196.55.172:32824/Mozi.m
@@ -1749,6 +1755,7 @@ http://117.198.173.210:59131/Mozi.m
 http://117.198.175.40:52811/bin.sh
 http://117.198.175.40:52811/i
 http://117.198.246.209:56502/Mozi.m
+http://117.198.247.42:60097/Mozi.m
 http://117.198.255.82:55508/Mozi.m
 http://117.2.49.141:11765/.i
 http://117.20.243.40:2214/i
@@ -1767,11 +1774,11 @@ http://117.208.139.92:41056/Mozi.m
 http://117.213.12.40:42997/bin.sh
 http://117.213.12.40:42997/i
 http://117.213.15.211:51077/Mozi.m
-http://117.213.40.221:55782/mozi.m
 http://117.213.40.75:57713/Mozi.m
 http://117.213.41.25:43249/Mozi.m
 http://117.213.42.43:33678/i
 http://117.213.45.156:37054/Mozi.m
+http://117.213.45.43:56340/Mozi.m
 http://117.213.47.141:33718/bin.sh
 http://117.213.47.141:33718/i
 http://117.213.8.181:51589/Mozi.m
@@ -1785,7 +1792,6 @@ http://117.217.147.194:41905/Mozi.m
 http://117.217.154.47:38216/i
 http://117.221.179.174:36053/Mozi.m
 http://117.221.182.202:52340/Mozi.m
-http://117.221.188.17:33358/Mozi.m
 http://117.222.160.26:51581/Mozi.m
 http://117.222.160.96:60553/Mozi.m
 http://117.222.163.58:43293/Mozi.m
@@ -1805,13 +1811,14 @@ http://117.251.18.157:47570/i
 http://117.251.18.157:47570/Mozi.m
 http://117.251.30.173:59887/i
 http://117.251.31.109:32882/i
+http://117.251.48.200:39406/Mozi.m
 http://117.251.48.58:54787/Mozi.m
 http://117.251.52.225:41646/Mozi.m
 http://117.251.56.135:33482/Mozi.m
 http://117.251.56.235:54676/Mozi.m
 http://117.251.57.29:34095/bin.sh
 http://117.251.57.29:34095/i
-http://117.251.63.31:36092/Mozi.m
+http://117.251.63.78:53177/Mozi.m
 http://117.26.125.100:41537/bin.sh
 http://117.26.125.100:41537/Mozi.a
 http://117.26.14.160:40952/bin.sh
@@ -1820,7 +1827,6 @@ http://117.26.89.35:49722/Mozi.m
 http://117.41.198.115:54877/Mozi.m
 http://117.44.52.226:54364/bin.sh
 http://117.44.52.226:54364/i
-http://117.44.52.226:54364/Mozi.m
 http://117.55.136.172:44802/.i
 http://117.57.41.108:53268/Mozi.m
 http://117.63.178.21:42954/bin.sh
@@ -2008,7 +2014,6 @@ http://119.165.168.164:53180/bin.sh
 http://119.165.168.164:53180/i
 http://119.165.168.164:53180/Mozi.a
 http://119.165.168.164:53180/Mozi.m
-http://119.165.183.39:49464/.i
 http://119.165.239.192:37595/bin.sh
 http://119.165.239.192:37595/i
 http://119.165.239.192:37595/mozi.a
@@ -2176,6 +2181,7 @@ http://120.15.13.190:60747/i
 http://120.15.13.190:60747/mozi.a
 http://120.15.13.190:60747/Mozi.m
 http://120.193.91.177:42635/Mozi.m
+http://120.193.91.179:53444/Mozi.m
 http://120.193.91.180:39281/bin.sh
 http://120.193.91.180:39281/Mozi.a
 http://120.193.91.180:39281/Mozi.m
@@ -2368,6 +2374,7 @@ http://121.61.97.15:59535/Mozi.m
 http://121.61.97.198:43708/bin.sh
 http://121.61.97.198:43708/Mozi.a
 http://121.61.97.198:43708/Mozi.m
+http://121.61.98.169:54443/bin.sh
 http://121.61.98.169:54443/i
 http://121.61.98.169:54443/Mozi.m
 http://121.62.195.185:33268/i
@@ -2397,7 +2404,6 @@ http://122.143.165.181:19841/Mozi.m
 http://122.160.0.125:49496/.i
 http://122.160.10.209:41172/.i
 http://122.160.147.53:59740/.i
-http://122.165.6.247:34481/Mozi.m
 http://122.168.125.227:47674/Mozi.m
 http://122.188.138.136:56931/mozi.m
 http://122.188.138.137:41343/Mozi.m
@@ -2567,7 +2573,6 @@ http://123.154.31.101:36252/Mozi.m
 http://123.155.11.209:37807/Mozi.a
 http://123.155.11.209:37807/Mozi.m
 http://123.156.88.63:23757/Mozi.a
-http://123.156.88.63:23757/Mozi.m
 http://123.156.90.210:56179/Mozi.m
 http://123.159.139.245:49402/bin.sh
 http://123.159.139.245:49402/Mozi.a
@@ -2764,6 +2769,7 @@ http://124.132.36.88:41035/Mozi.m
 http://124.135.219.80:33321/bin.sh
 http://124.135.219.80:33321/Mozi.m
 http://124.153.136.175:2459/i
+http://124.153.136.175:2459/Mozi.a
 http://124.153.136.175:2459/Mozi.m
 http://124.153.236.6:5889/.i
 http://124.155.146.133:34719/.i
@@ -2813,8 +2819,6 @@ http://124.93.60.27:37596/mozi.m
 http://125.104.106.129:46589/Mozi.m
 http://125.105.135.119:35040/Mozi.a
 http://125.105.135.119:35040/Mozi.m
-http://125.105.21.244:39649/bin.sh
-http://125.105.21.244:39649/Mozi.a
 http://125.105.235.73:48710/Mozi.m
 http://125.105.60.122:55888/bin.sh
 http://125.105.60.122:55888/Mozi.m
@@ -3043,13 +3047,12 @@ http://14.230.42.219:33594/Mozi.m
 http://14.230.62.238:42092/bin.sh
 http://14.230.62.238:42092/i
 http://14.230.67.182:41897/Mozi.a
+http://14.234.142.128:58071/Mozi.m
 http://14.234.90.178:43718/Mozi.m
 http://14.237.30.101:47430/Mozi.m
 http://14.240.121.7:44482/bin.sh
 http://14.240.121.7:44482/Mozi.m
-http://14.240.55.119:60894/bin.sh
 http://14.240.55.119:60894/i
-http://14.240.55.119:60894/Mozi.m
 http://14.240.55.163:35867/bin.sh
 http://14.241.189.57:37798/i
 http://14.241.189.57:37798/Mozi.m
@@ -3108,6 +3111,7 @@ http://144.91.119.28/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab6
 http://144.91.119.28/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86
 http://144.91.81.180/x64
 http://149.3.110.195:38388/i
+http://149.3.124.223:35656/Mozi.m
 http://149.3.36.174:57092/Mozi.a
 http://149.3.36.174:57092/mozi.m
 http://149.3.73.242:53476/i
@@ -3207,6 +3211,7 @@ http://163.179.217.199:59140/Mozi.m
 http://163.179.232.155:45555/Mozi.m
 http://163.179.234.49:43268/Mozi.m
 http://163.204.210.83:58384/Mozi.m
+http://163.204.212.151:36623/Mozi.a
 http://163.204.213.51:48585/mozi.m
 http://163.204.214.180:44234/Mozi.m
 http://163.204.217.129:48052/Mozi.a
@@ -3323,7 +3328,6 @@ http://171.44.240.94:41368/bin.sh
 http://171.44.240.94:41368/i
 http://171.44.240.94:41368/Mozi.a
 http://171.44.240.94:41368/Mozi.m
-http://171.81.104.220:52364/bin.sh
 http://171.81.104.220:52364/Mozi.m
 http://171.81.66.180:38502/bin.sh
 http://171.81.66.180:38502/i
@@ -3438,9 +3442,7 @@ http://175.10.18.21:36679/i
 http://175.10.18.21:36679/Mozi.a
 http://175.10.18.21:36679/Mozi.m
 http://175.10.188.89:48479/bin.sh
-http://175.10.188.89:48479/i
 http://175.10.188.89:48479/Mozi.a
-http://175.10.188.89:48479/Mozi.m
 http://175.10.243.83:51494/Mozi.a
 http://175.10.243.83:51494/Mozi.m
 http://175.10.48.107:39618/Mozi.m
@@ -3449,7 +3451,6 @@ http://175.10.50.121:42891/Mozi.m
 http://175.10.74.182:42581/Mozi.a
 http://175.10.74.182:42581/Mozi.m
 http://175.10.90.202:47711/bin.sh
-http://175.10.90.202:47711/i
 http://175.10.90.202:47711/Mozi.m
 http://175.11.136.96:46469/Mozi.m
 http://175.11.170.67:38407/Mozi.m
@@ -3467,7 +3468,6 @@ http://175.11.230.167:52570/Mozi.m
 http://175.11.231.0:48468/bin.sh
 http://175.11.231.0:48468/i
 http://175.11.231.0:48468/Mozi.a
-http://175.11.231.0:48468/Mozi.m
 http://175.11.52.130:48252/i
 http://175.11.52.186:41664/bin.sh
 http://175.11.52.186:41664/i
@@ -3678,6 +3678,7 @@ http://180.116.211.163:58581/i
 http://180.116.211.25:59601/bin.sh
 http://180.116.211.25:59601/i
 http://180.116.211.25:59601/Mozi.m
+http://180.116.228.135:3592/Mozi.m
 http://180.116.252.229:51168/Mozi.m
 http://180.116.58.158:49963/Mozi.m
 http://180.116.9.214:57205/Mozi.m
@@ -3752,6 +3753,7 @@ http://180.218.97.53:50259/Mozi.a
 http://180.218.97.53:50259/Mozi.m
 http://180.248.80.38:6067/.i
 http://180.250.7.106:27017/.i
+http://181.112.138.154:23042/.i
 http://181.112.218.238:63672/.i
 http://181.112.218.6:19122/.i
 http://181.129.124.42:9999/.i
@@ -3825,6 +3827,7 @@ http://182.117.190.169:41805/Mozi.m
 http://182.117.28.57:37209/Mozi.m
 http://182.117.30.208:58745/Mozi.m
 http://182.117.40.245:17643/Mozi.m
+http://182.117.41.40:59769/Mozi.m
 http://182.117.43.163:36976/Mozi.m
 http://182.117.43.3:58820/Mozi.m
 http://182.117.45.91:59429/Mozi.m
@@ -3890,6 +3893,7 @@ http://182.121.22.153:45889/Mozi.m
 http://182.121.252.189:34245/Mozi.m
 http://182.121.254.136:44071/Mozi.m
 http://182.121.40.173:59370/Mozi.m
+http://182.121.41.190:53594/i
 http://182.121.42.170:57822/Mozi.m
 http://182.121.46.111:49163/Mozi.m
 http://182.121.62.209:48832/Mozi.m
@@ -3898,7 +3902,6 @@ http://182.121.80.245:57130/i
 http://182.121.80.245:57130/Mozi.m
 http://182.121.83.71:40666/Mozi.a
 http://182.121.83.71:40666/Mozi.m
-http://182.121.86.13:52668/Mozi.m
 http://182.121.91.36:49158/Mozi.m
 http://182.122.121.32:41036/Mozi.a
 http://182.122.206.36:44135/i
@@ -3914,6 +3917,7 @@ http://182.122.229.143:45021/Mozi.m
 http://182.122.252.159:40317/Mozi.m
 http://182.122.253.198:38535/Mozi.m
 http://182.122.58.28:46018/Mozi.a
+http://182.123.124.109:46740/Mozi.m
 http://182.123.208.236:48730/bin.sh
 http://182.123.208.236:48730/i
 http://182.123.208.236:48730/Mozi.m
@@ -3929,7 +3933,6 @@ http://182.124.21.63:47208/i
 http://182.124.21.63:47208/Mozi.m
 http://182.124.30.209:49865/i
 http://182.124.30.209:49865/Mozi.m
-http://182.124.40.102:50868/Mozi.m
 http://182.126.10.182:60504/Mozi.a
 http://182.126.100.224:35315/Mozi.m
 http://182.126.117.238:33568/Mozi.m
@@ -4101,6 +4104,7 @@ http://185.107.0.213:32769/mozi.m
 http://185.107.96.180/patches/7213.exe
 http://185.107.96.180/patches/7215.exe
 http://185.107.96.180/patches/7251.exe
+http://185.112.83.75/WindowsDefender.exe
 http://185.112.83.8/DriverUpdaterForSvhost.bin
 http://185.112.83.8/install1.exe
 http://185.112.83.8/install2.exe
@@ -4191,17 +4195,21 @@ http://186.222.76.176:17023/.i
 http://186.227.148.107:51569/Mozi.a
 http://186.227.148.107:51569/Mozi.m
 http://186.33.64.9:55103/bin.sh
-http://186.33.65.243:44129/i
+http://186.33.66.183:52301/Mozi.m
 http://186.33.67.129:36404/mozi.m
 http://186.33.68.255:43582/Mozi.m
 http://186.33.70.100:55438/i
+http://186.33.73.224:35009/bin.sh
+http://186.33.73.26:54072/Mozi.m
 http://186.33.74.3:44167/Mozi.m
 http://186.33.76.135:32841/Mozi.m
-http://186.33.77.183:40827/Mozi.m
 http://186.33.77.76:57555/Mozi.m
 http://186.33.81.121:45580/Mozi.m
 http://186.33.82.101:49220/Mozi.m
+http://186.33.86.24:41282/Mozi.m
+http://186.33.86.26:53577/Mozi.m
 http://186.33.87.5:60664/Mozi.m
+http://186.33.89.170:32843/Mozi.m
 http://186.33.89.3:51039/Mozi.m
 http://186.33.90.168:41545/i
 http://186.4.125.48:45073/bin.sh
@@ -4306,9 +4314,6 @@ http://190.110.161.252:22693/.i
 http://190.110.222.174:33060/.i
 http://190.119.207.58:7673/.i
 http://190.12.99.194:28516/.i
-http://190.122.112.71:38856/bin.sh
-http://190.122.112.71:38856/Mozi.m
-http://190.122.112.97:52451/mozi.m
 http://190.130.15.212:31744/.i
 http://190.147.16.184:28977/.i
 http://190.147.81.54:14637/.i
@@ -4334,8 +4339,10 @@ http://190.85.106.42:59560/.i
 http://190.85.213.51:65350/.i
 http://190.98.37.135:10929/.i
 http://190.98.37.200:48046/.i
+http://190.98.41.33:49825/.i
 http://190.98.41.33:49825/g
 http://190.98.41.33:49825/i
+http://190.98.41.33:49825/Mozi.a
 http://191.101.207.208/bins/bin.arm
 http://191.101.207.208/bins/bin.arm5
 http://191.101.207.208/bins/bin.arm6
@@ -4549,7 +4556,6 @@ http://203.236.190.28:2514/i
 http://203.236.190.28:2514/Mozi.7
 http://203.236.190.28:2514/Mozi.a
 http://203.236.190.28:2514/Mozi.m
-http://203.243.142.132:4714/i
 http://203.70.166.107:12317/.i
 http://203.77.69.82:54801/bin.sh
 http://203.77.69.82:54801/i
@@ -4617,7 +4623,6 @@ http://211.243.212.34:40272/Mozi.m
 http://211.250.243.131:1875/.i
 http://211.250.48.238:25487/.i
 http://211.47.83.200:4567/.i
-http://211.47.83.200:4567/i
 http://211.47.83.200:4567/Mozi
 http://211.50.17.115:33256/bin.sh
 http://211.50.17.115:33256/Mozi.m
@@ -4758,6 +4763,7 @@ http://218.58.185.139:27177/Mozi.m
 http://218.58.32.202:34309/Mozi.m
 http://218.6.106.71:34401/mozi.a
 http://218.6.106.71:34401/Mozi.m
+http://218.81.119.230:40984/i
 http://218.81.119.230:40984/Mozi.m
 http://218.91.106.177:33767/Mozi.m
 http://218.93.131.24:57828/Mozi.m
@@ -4804,6 +4810,7 @@ http://219.155.87.166:60294/Mozi.m
 http://219.155.9.188:41231/Mozi.m
 http://219.156.100.20:56320/Mozi.m
 http://219.156.190.4:44720/Mozi.m
+http://219.156.210.214:52369/Mozi.m
 http://219.156.27.108:49182/Mozi.m
 http://219.156.40.46:53630/bin.sh
 http://219.156.54.134:56269/Mozi.m
@@ -4829,6 +4836,7 @@ http://219.157.201.246:53522/Mozi.m
 http://219.157.216.211:42936/Mozi.m
 http://219.157.225.188:54527/Mozi.m
 http://219.157.231.209:36728/Mozi.m
+http://219.157.234.128:54635/Mozi.a
 http://219.157.235.216:36694/Mozi.m
 http://219.157.241.177:36424/Mozi.m
 http://219.157.252.146:55264/Mozi.m
@@ -5145,7 +5153,6 @@ http://222.141.43.80:54584/Mozi.m
 http://222.141.44.129:51506/Mozi.a
 http://222.141.9.44:60935/Mozi.m
 http://222.142.108.194:39056/Mozi.m
-http://222.142.192.64:54277/i
 http://222.174.167.82:7540/Mozi.m
 http://222.174.233.166:46484/Mozi.m
 http://222.179.215.189:4525/Mozi.m
@@ -5638,6 +5645,7 @@ http://27.220.250.60:55382/Mozi.m
 http://27.220.81.11:43775/i
 http://27.222.152.22:36773/i
 http://27.222.152.22:36773/Mozi.m
+http://27.222.51.65:20589/Mozi.m
 http://27.223.151.245:57305/mozi.a
 http://27.223.151.245:57305/Mozi.m
 http://27.223.255.245:45716/bin.sh
@@ -5709,6 +5717,7 @@ http://27.45.11.9:59076/Mozi.a
 http://27.45.113.112:60107/Mozi.m
 http://27.45.113.97:60487/Mozi.a
 http://27.45.117.117:53164/Mozi.m
+http://27.45.117.241:50492/Mozi.a
 http://27.45.12.108:50767/Mozi.a
 http://27.45.12.108:50767/Mozi.m
 http://27.45.12.179:38224/Mozi.m
@@ -5719,7 +5728,6 @@ http://27.45.13.238:53858/Mozi.m
 http://27.45.13.244:36722/Mozi.m
 http://27.45.14.27:38552/Mozi.m
 http://27.45.15.10:48377/Mozi.a
-http://27.45.15.103:55202/Mozi.m
 http://27.45.15.11:55951/Mozi.a
 http://27.45.15.196:41437/Mozi.m
 http://27.45.15.69:56646/Mozi.a
@@ -5732,6 +5740,7 @@ http://27.45.9.1:35009/Mozi.m
 http://27.45.93.202:51424/Mozi.m
 http://27.45.93.24:57802/mozi.m
 http://27.45.95.2:54968/Mozi.m
+http://27.46.17.63:44846/Mozi.m
 http://27.46.44.226:41797/Mozi.m
 http://27.46.46.107:50998/Mozi.a
 http://27.46.46.151:43764/Mozi.m
@@ -5744,6 +5753,7 @@ http://27.46.55.63:35343/Mozi.m
 http://27.47.114.244:43303/Mozi.a
 http://27.47.115.184:36469/Mozi.m
 http://27.47.75.227:46514/Mozi.m
+http://27.6.100.195:47995/Mozi.m
 http://27.6.240.170:33008/Mozi.m
 http://27.6.254.21:53937/Mozi.m
 http://27.6.47.150:49824/mozi.a
@@ -5828,7 +5838,6 @@ http://33consultoria.com.br/eumid/voluptatemet-9736721
 http://35.131.161.166:64385/.i
 http://36.110.4.26:45265/bin.sh
 http://36.110.4.26:45265/i
-http://36.110.4.26:45265/Mozi.a
 http://36.110.4.26:45265/Mozi.m
 http://36.24.236.177:50242/Mozi.m
 http://36.249.147.198:56434/Mozi.m
@@ -6171,6 +6180,7 @@ http://42.224.217.220:41701/i
 http://42.224.239.208:44624/mozi.m
 http://42.224.24.98:42976/Mozi.m
 http://42.224.28.64:37380/mozi.m
+http://42.224.3.207:39476/Mozi.a
 http://42.224.3.207:39476/Mozi.m
 http://42.224.39.102:41055/Mozi.m
 http://42.224.40.83:44573/Mozi.m
@@ -6210,7 +6220,6 @@ http://42.227.236.143:40810/Mozi.m
 http://42.227.236.39:43733/bin.sh
 http://42.227.236.39:43733/i
 http://42.227.236.39:43733/Mozi.a
-http://42.227.239.127:37735/Mozi.m
 http://42.228.103.205:53218/Mozi.m
 http://42.228.196.35:52704/Mozi.m
 http://42.228.235.182:52225/Mozi.m
@@ -6568,7 +6577,6 @@ http://47.46.231.38:54076/.i
 http://47.62.139.206:58650/i
 http://49.112.90.164:37478/Mozi.a
 http://49.112.90.164:37478/Mozi.m
-http://49.142.240.85:2069/Mozi
 http://49.143.32.36:1797/Mozi.a
 http://49.143.32.36:1797/Mozi.m
 http://49.143.43.93:2283/.i
@@ -6625,7 +6633,6 @@ http://5.181.80.238/lx/apep.ppc
 http://5.181.80.238/lx/apep.sh4
 http://5.181.80.238/lx/apep.spc
 http://5.181.80.238/lx/apep.x86
-http://5.185.124.242:30534/.i
 http://5.2.73.241/qwx.armv4tl
 http://5.2.73.241/qwx.armv5l
 http://5.2.73.241/qwx.Armv6l
@@ -6774,6 +6781,7 @@ http://58.249.80.25:42786/Mozi.m
 http://58.249.81.160:39562/Mozi.m
 http://58.249.81.5:53639/Mozi.m
 http://58.249.81.53:32808/Mozi.m
+http://58.249.82.11:42962/Mozi.a
 http://58.249.82.122:48421/Mozi.m
 http://58.249.82.188:51589/Mozi.m
 http://58.249.83.190:49642/Mozi.a
@@ -6833,6 +6841,7 @@ http://58.253.158.27:40257/Mozi.m
 http://58.253.4.185:36242/Mozi.m
 http://58.253.4.200:59591/Mozi.m
 http://58.253.5.149:39718/Mozi.a
+http://58.253.5.149:39718/Mozi.m
 http://58.253.6.82:51134/Mozi.a
 http://58.253.8.229:60374/Mozi.m
 http://58.253.8.51:36950/Mozi.m
@@ -6881,7 +6890,6 @@ http://58.55.0.46:54270/Mozi.a
 http://58.55.0.46:54270/Mozi.m
 http://58.55.18.223:52382/Mozi.m
 http://58.55.40.28:42189/Mozi.m
-http://58.58.14.132:4908/bin.sh
 http://58.58.14.132:4908/Mozi.m
 http://58.58.41.106:55880/Mozi.m
 http://58.71.214.90:29641/.i
@@ -6934,17 +6942,16 @@ http://59.93.17.50:51396/Mozi.a
 http://59.93.23.152:59487/i
 http://59.93.26.230:47274/i
 http://59.93.27.111:54076/Mozi.a
-http://59.93.28.191:53470/Mozi.m
 http://59.93.31.127:55757/Mozi.a
 http://59.94.182.205:44716/bin.sh
 http://59.94.182.205:44716/i
-http://59.94.192.175:35292/bin.sh
 http://59.94.201.208:41698/mozi.a
 http://59.94.201.208:41698/Mozi.m
 http://59.94.205.109:41467/Mozi.m
 http://59.94.205.222:38960/Mozi.m
 http://59.94.34.2:59781/Mozi.m
 http://59.95.68.8:55365/Mozi.m
+http://59.95.74.90:33487/Mozi.m
 http://59.95.76.17:38096/Mozi.m
 http://59.95.76.249:44321/Mozi.m
 http://59.95.76.33:60600/Mozi.a
@@ -6955,6 +6962,7 @@ http://59.96.28.169:47670/Mozi.m
 http://59.96.44.112:54484/Mozi.m
 http://59.97.175.224:47706/Mozi.m
 http://59.97.175.235:38091/Mozi.m
+http://59.99.130.11:46860/Mozi.m
 http://59.99.130.59:54426/Mozi.m
 http://59.99.131.191:51516/bin.sh
 http://59.99.131.191:51516/i
@@ -7040,7 +7048,6 @@ http://61.163.129.210:53242/bin.sh
 http://61.163.129.210:53242/i
 http://61.163.129.210:53242/Mozi.m
 http://61.163.131.28:58450/Mozi.m
-http://61.163.141.85:46775/mozi.m
 http://61.163.148.201:57199/Mozi.m
 http://61.163.151.248:35184/bin.sh
 http://61.163.151.248:35184/i
@@ -7048,6 +7055,7 @@ http://61.168.140.181:56527/Mozi.m
 http://61.176.2.81:40959/Mozi.m
 http://61.247.183.18:3311/.i
 http://61.3.144.192:41397/bin.sh
+http://61.3.145.48:56392/Mozi.a
 http://61.3.145.76:38131/Mozi.m
 http://61.3.149.207:58066/Mozi.m
 http://61.3.150.55:56998/Mozi.m
@@ -7392,7 +7400,6 @@ http://81.165.44.109:14951/.i
 http://81.170.251.132:44976/Mozi.m
 http://81.214.189.185:52701/Mozi.m
 http://81.215.208.120:57960/bin.sh
-http://81.215.208.120:57960/i
 http://81.218.156.164:31796/.i
 http://81.218.170.52:50258/Mozi.a
 http://81.218.170.52:50258/Mozi.m
@@ -7714,6 +7721,7 @@ http://95.255.11.243:49668/.i
 http://95.255.130.177:52804/.i
 http://95.8.200.45:60163/bin.sh
 http://95.8.200.45:60163/i
+http://95.9.33.229:56914/bin.sh
 http://95.9.33.229:56914/i
 http://95.9.33.229:56914/Mozi.m
 http://95.9.94.240:52355/bin.sh
@@ -8176,6 +8184,7 @@ http://cubitus.africa/quamincidunt/voluptatemcorporis-laborumqui-autdolor
 http://cucisofasby.com/fugaatque/inciduntoptio-porrofuga
 http://cuoihoitugia.com/aecidiostage/2gyA5uNl6VPQUA/
 http://cuoihoitugia.com/aecidiostage/Uwp2XxU2yzt21weDcM2/
+http://cuoihoitugia.com/aecidiostage/vkot3ACpTsf8jGua1h/
 http://cuoihoitugia.com/aecidiostage/YoJb6wcw/
 http://curious-george.me/qq/?redacted
 http://custominsure.com/britain.php
@@ -8294,12 +8303,11 @@ http://dawne.globodyinc.biz/fzkokpxa/Kuu8xT0Hg/
 http://daytiengnhat.org/pack/Dnk8nOUcoHKRe4eCH/
 http://daytiengnhat.org/pack/goZ3Tkgc3p0ixrE/
 http://daytiengnhat.org/pack/LUTSUh58PPOfrBH8/
+http://ddl7.data.hu/get/300367/13061439/TRSELF.exe
 http://ddl7.data.hu/get/375461/13126942/jogd.exe
-http://ddl8.data.hu/get/209208/13104907/Sega3b.exe
 http://ddl8.data.hu/get/221922/13065087/QS.exe
 http://ddl8.data.hu/get/223675/13073165/ConsoleApp82.exe
 http://ddl8.data.hu/get/257612/13052094/BS.exe
-http://ddl8.data.hu/get/260883/13053686/fn.exe
 http://ddl8.data.hu/get/283078/13125554/jogb.exe
 http://ddl8.data.hu/get/322058/13060880/LS.exe
 http://ddl8.data.hu/get/323531/12928707/consoleapp5a.exe
@@ -8603,10 +8611,10 @@ http://galaxy.managesquare.com/assets/x/
 http://gastronews.by/efi/8/ipi5e1u5r.zip
 http://gastronews.by/efi/acc/mcv/vst/jmlv48u.zip
 http://gastronews.by/efi/enob610gsc.zip
+http://gastronews.by/efi/exg/dpq/jbg/gsektct.zip
 http://gastronews.by/efi/j/mopjxr6uv.zip
 http://gastronews.by/efi/m/3amookohp.zip
 http://gastronews.by/efi/qvwewutjw8.zip
-http://gastronews.by/efi/udi/krb/2js/jcetw6q.zip
 http://gastronews.by/efi/uzoo8crhd8.zip
 http://gaurav.wpsupport.urdemo.website/lm8csk4/L7nyydsxfzZVX6/
 http://gbsports.kiev.ua/ey4hvw.php?redacted
@@ -8620,7 +8628,6 @@ http://getbetadeal.com.ng/jr/X8oDA34w/
 http://giacomadiscounts.com/ap/?redacted
 http://giadinhviet.com/pdf/log_in/8kQBFUyohsDRGCJx/
 http://giromondotour.it/wp-admin/Ybf8Jcc/
-http://global-dis.com/sys/0/dufp9agyf.zip
 http://global-dis.com/sys/DKG/XhA/BDJ/fdNFMNS.zip
 http://global-dis.com/sys/E/Y7VNjRuaT.zip
 http://global-dis.com/sys/FK5J8EDemT.zip
@@ -8709,6 +8716,7 @@ http://heinrich.su-projects2.de/r/?redacted
 http://herchinfitout.com.sg/backup/sites/TsN0W4LrUYE7p/
 http://hhaward.org/q3qdb4g5.zip
 http://highlandslasvegas.atakdev.com/elite-dangerous-80no0/hyNCvpykM38TCHCHBtumlqWMosQ8vBkVJfIwtxNwDYEk8/
+http://hihisea.com/l.php?redacted
 http://hindimedia.in/wp-content/uploads/yG4xNVkZcZmmixxb/
 http://hipma.unikom.ac.id/wp-admin/IrtzjwOlw33rqC8w/
 http://hireout.today/wp-admin/68AZsHs/
@@ -8718,7 +8726,6 @@ http://hitstation.nl/css/parts_service/ly944myw/
 http://hmpmall.co.kr/statics/images/HMPMall.exe
 http://homeartdec.com/wp-content/9Q/
 http://hongluosi.com/wp-includes/closed_module/95878044_SmmJyT_space/832749354553_ZeeZjcH6b/
-http://hongluosi.com/wp-includes/protected_eQJO3_uSVoor31e/additional_warehouse/025417068_a1wtEHjajWpdkY4/
 http://hookedupboatclub.com/img/ball.jpg
 http://hordlepc.com/rootF0x-qpabj/MieY18vidD6U/
 http://hordlepc.com/rootF0x-uyxab/DT4lunV5WK3kC1/
@@ -8816,7 +8823,7 @@ http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 http://journeypropertysolutions.com/cterq/1BkGCjiTIQS5/
 http://journeypropertysolutions.com/x/?redacted
-http://jurnalismictv.com/efi/hgeqh8ft3d.zip
+http://jurnalismictv.com/efi/u/aha4fgvlg.zip
 http://justinscott.com.au/sites/lkgdo8n23944724420966539o7t3zhy3avwz/
 http://justinscott.com.au/sites/rRS/
 http://k-antiques.jp/wp-includes/5obCvQ99K6lCsHDRe/
@@ -8876,15 +8883,14 @@ http://kizitox.cf/mpomzx.exe
 http://kizitox.cf/plugmanzx.exe
 http://kizitox.cf/ugopoundzx.exe
 http://klearning.co.uk/efi/8a/wm/ckzzpxpr.zip
+http://klearning.co.uk/efi/a/nlwludy2i.zip
 http://klearning.co.uk/efi/a/wlzxfrxhz.zip
-http://klearning.co.uk/efi/du0ysj0xhw.zip
-http://klearning.co.uk/efi/e8ccjamuah.zip
+http://klearning.co.uk/efi/dbglgdmckm.zip
 http://klearning.co.uk/efi/py/jv/koddbmzm.zip
 http://klearning.co.uk/efi/qx1/4b6/9yt/s2cwuyw.zip
 http://klearning.co.uk/efi/tkx/qjh/pnv/zstbkgv.zip
 http://kodekode.ac.ug/ghjkl.exe
 http://korrectconceptservices.com/gy2fyh8.rar
-http://kotob.top/dl/build2.exe
 http://krainikovvlad.eternalhost.info/goshelper/files/archives/cleo/install_cleo_files.exe
 http://kuaizip.com/down/affiliate/KuaiZip_setup_10029.exe
 http://kumarsteels.net/quasihic/istelabore-9545847
@@ -8947,6 +8953,7 @@ http://madicon.co.za/b4f5or.rar
 http://maestromedservices.com/velitut/fugitomnis-10663013
 http://maestromedservices.com/velitut/veltenetur-9687667
 http://mafrial.com.br/itaquedolores/eiusmollitiaet
+http://mail.bs-eiendomme.co.za/ny0fat.gif
 http://mail.tucorp.com.au/yb/?redacted
 http://maison-du-parc.com//administrator/king.jpg
 http://maison-du-parc.com//administrator/stan.jpg
@@ -9180,9 +9187,8 @@ http://navratangemlab.com/au3j8edp.rar
 http://ncrplacement.com/d3gh71r.tar
 http://ndservicostecnologicos.com.br/gh/?redacted
 http://nec.nusamandiri.ac.id/uy/?redacted
-http://necocheasexshop.com/automatical.php
+http://necocheasexshop.com/awfully.php
 http://necocheasexshop.com/cigarette.php
-http://necocheasexshop.com/cinematography.php
 http://negocios-e-financas.000webhostapp.com/wp-admin/gwc5O6L/
 http://neofunkyjunky.com/holler/file.exe
 http://neofunkyjunky.com/holler/rolle.exe
@@ -9242,6 +9248,7 @@ http://onyx-food.com/mean.php
 http://opened.today/wp-admin/KDqZ/
 http://openhouse.swu.ac.th/3y1eq/2aiWMcqAJYoWZd4pvL4Si/
 http://openhouse.swu.ac.th/3y1eq/cnNBqlw/
+http://openhouse.swu.ac.th/3y1eq/Lni/
 http://openhouse.swu.ac.th/3y1eq/mv1IAOT9traS7WOFw/
 http://oracle.zzhreceive.top/b2f628/cf.jpg
 http://oracle.zzhreceive.top/b2f628/dkb.sh
@@ -9256,6 +9263,7 @@ http://ordersofmagnetude.com/parallelepiped.php
 http://ordersofmagnetude.com/scullert.php
 http://ordinateur.ogivart.us/editor/I08qOCScI/
 http://oreokitkat.ddns.net/downloader/armsvc.exe
+http://oreokitkat.ddns.net/downloader/shell.exe
 http://oreokitkat.ddns.net/downloader/svchost.exe
 http://orientgatewayltd.com/nrep1o.tar
 http://osetrkolomna.ru/wp-admin/kOSfaOwIo10nhGk/
@@ -9272,7 +9280,7 @@ http://ourroyalfamily.com/infacilis/possimusmodi-suntvitae
 http://ozadowear.com/retiree.php
 http://ozaff.com/fonts/3tu7NQ5BB/
 http://ozemag.com/wp-content/themes/emag/template-parts/ashan.russia.zakaz.zip
-http://ozemag.com/wp-content/themes/emag/template-parts/GKPIK.zip
+http://ozemag.com/wp-content/themes/emag/template-parts/metro.cash.and.carry.zakaz.zip
 http://oziris-doo.com/eumenim/reprehenderitrerumvoluptas
 http://ozvita.club/wp-includes/eq7PwawBGL18/
 http://p2.d9media.cn/p2p_v4/data/home/08018.HOME
@@ -9335,7 +9343,6 @@ http://phasdesign.com/wordpress/MSInfo/
 http://phatthalung.drr.go.th/content/er4Pc3CBi/
 http://phuket-expat-vaccinations.com/adlaudantium/abadipisci-145647239
 http://physicsbyfiziks.org/abutting.php
-http://physicsbyfiziks.org/nullor.php
 http://physicsbyfiziks.org/pregnant.php
 http://pierreconsulting.info/wp-admin/LLC/mWCACS65xIENQdp/
 http://pilotscience.com/Halimat/sE/
@@ -9561,9 +9568,9 @@ http://simgftesting.kabtakalar.id/adgm33hp.zip
 http://sindicato1ucm.cl/wp-content/dafa.exe
 http://singsamut.ac.th/4uvmw/L5B/
 http://sinopu.com/i/?redacted
-http://sisale.investisho.com/essecumque/etest-culpaest-quisint
 http://sistelligent.com/descargas/Documentation/
 http://sivanta.digiclawmedia.in/bk/?redacted
+http://sjakararts.in/vitaeet/culpamolestias-9741574
 http://sjakararts.in/vitaeet/doloresvelit-9691074
 http://sjakararts.in/vitaeet/eavoluptas-10733011
 http://skiyodldev.com/autsunt/autvoluptatem-6524939
@@ -9656,7 +9663,6 @@ http://sunuhabitat.com/wp-includes/KwldfibotQp86oF/
 http://support.clz.kr/soft_hair/PCSupport.exe
 http://support.ionoxwebstudio.com/bfqr2ulsy.rar
 http://supportit.online/xnxppv.tar
-http://suriyecastajanslari.bykmedya.com/new.exe
 http://sursargam.org/aperiamexercitationem/dolorumpariaturquia
 http://sursargam.org/aperiamexercitationem/iuresintfacere
 http://sursargam.org/aperiamexercitationem/omnisnemodolorum
@@ -9712,11 +9718,6 @@ http://thekrishnagroup.com/includes/66/eSZhus81sRHwOek.exe
 http://thenoces.com/wp-content/lijb/
 http://thepunchlineexpose.com/wp-includes/certificates/AnyDesk.exe
 http://therecyclingmachine.com/wp-admin/7XZqJlBDROYULoB6eS/
-http://thesensescollection.com/wp-admin/5jtAxMp1TTZ7Y/
-http://thesensescollection.com/wp-admin/MTOZXI8pS6PQ/
-http://thesensescollection.com/wp-admin/wINlFwS01xmVsi/
-http://thesensescollection.com/wp-admin/xguJG9evsXs/
-http://thesensescollection.com/wp-admin/YjoX09yLJYxzGrLBK/
 http://theshowroomwholesale.com/rkpp7k/Pxx6nCg1X/
 http://thetrendskill.com/wp-content/e/
 http://theunikbookery.com/noncanvassing/7ko/
@@ -9725,7 +9726,6 @@ http://thevapestore.by/efi/d/zftpyyqaw.zip
 http://thevapestore.by/efi/f9v/ujq/kzk/iehwgxi.zip
 http://thevapestore.by/efi/jl/3v/bskf0tcc.zip
 http://thevapestore.by/efi/mgb/goc/pli/tkb3fnp.zip
-http://thevapestore.by/efi/oaebmnzze1.zip
 http://thevapestore.by/efi/or/zx/0lfmjiid.zip
 http://thevapestore.by/efi/qijxixmpft.zip
 http://thevapestore.by/efi/srdwxqwji4.zip
@@ -9786,7 +9786,6 @@ http://tv-facility.com/cache/AUxZ/
 http://txingame.com/wp-content/plugins/fastest-cache/images/api.exe
 http://txingame.com/wp-content/Z8h1reDKi/
 http://tyuukyou.com/gr/?redacted
-http://ulace.com.mx/nostrumbeatae/autoccaecativoluptate
 http://ulace.com.mx/nostrumbeatae/culpanesciuntnecessitatibus
 http://ulace.com.mx/nostrumbeatae/estquiaaccusantium
 http://ulace.com.mx/nostrumbeatae/idaccusantiumconsequuntur
@@ -9826,6 +9825,7 @@ http://vfocus.net/download/down/cmdbind2.zip
 http://vietlime.vn/Fox-C/LDyf/
 http://view.pasarjaya.co.id/m.exe
 http://view.pasarjaya.co.id/myntaxx.exe
+http://view.pasarjaya.co.id/nyntaxx.exe
 http://view.pasarjaya.co.id/shedy.exe
 http://villatera.com/cgi-bin/eTrac/7Sg61xJuszid/
 http://villatera.com/cgi-bin/https://Document/AK9HNRnHpZ9eZsPj/
@@ -9967,7 +9967,6 @@ http://www.hartcontractorsltd.com/wp-content/themes/astra/inc/builder/type/heade
 http://www.hartcontractorsltd.com/wp-content/themes/astra/inc/builder/type/header/button/dynamic-css/satin.php
 http://www.hihisea.com/a.php?redacted
 http://www.hmpmall.co.kr/statics/images/HMPMall.exe
-http://www.hollow-sections.net/mm.exe
 http://www.hsecaravans.co.uk/wp-admin/sUy/
 http://www.hseda.com/download/qt51crk.exe
 http://www.idj.no/a2mfhn.zip
@@ -10060,6 +10059,7 @@ http://yuresco.uz/cgi-bin/lFcHia3eF08m6/
 http://yzkzixun.com/v2x2vexx.jpg
 http://zalo-file-doc5.zdn.vn/34c0b59dac7e43201a6f/7429732531944867573
 http://zero61drone.com.br/voluptatemvoluptatum/nequedoloremque-8805397
+http://zeytinburnucastajanslari.bykmedya.com/My-Mavericks-Part1.txt
 http://zeytinburnucastajanslari.bykmedya.com/rgo.exe
 http://zeytinburnucastajanslari.bykmedya.com/softedont.exe
 http://zeytinburnucastajanslari.bykmedya.com/WebiconsetMobile-Wireless.txt
@@ -10129,7 +10129,6 @@ https://affordabledebtrelief.com/w/?redacted
 https://afhaenterprises.com/safer.php
 https://afnan-amc.com/zvlsg3le.rar
 https://afrimedspecialist.com/zxfenbo.tar
-https://agemn.co.za/zk58h95.rar
 https://agenciadestinos.net/ng/?redacted
 https://aiizan.art/ay/?redacted
 https://aiqtest.com/aiq-admin/dist/ionicon/png/512/159.dll
@@ -10243,7 +10242,6 @@ https://beem.id/dolores-odit/in.zip
 https://beepro.ir/wp-admin/H9hs/
 https://belanjalagi.com/content/akZxDL5qUhRkAs/
 https://bem.unja.ac.id//new_redaksi/Newfile.exe
-https://bem.unja.ac.id/new_redaksi/Newfile.exe
 https://bestcreditsociety.com/plugins/fontawesome/fonts/RbRobDr9emNEeo5.php
 https://bestsolutions.anuncio-ads.cl/nondolorem/elitueqqadieomdo-oenornmaaolqoi-uusi
 https://beta.chodoixe.com/wp-admin/KI/
@@ -10397,6 +10395,7 @@ https://cdn.discordapp.com/attachments/915626997240193048/917178395417280552/myf
 https://cdn.discordapp.com/attachments/916184892923060287/917665569254285322/Hadise_Gizli_Cekim_Ifsa.apk
 https://cdn.discordapp.com/attachments/916704832910426152/920008000222134292/713f2911ec85ecb7.exe
 https://cdn.discordapp.com/attachments/916729094043996160/919232546338930738/NeverLose.exe
+https://cdn.discordapp.com/attachments/916790875282087979/918108400301252608/476.exe
 https://cdn.discordapp.com/attachments/917259077657190427/917662765437575168/COBRO_JURIDICO_-_DIAN.PDF.R00
 https://cdn.discordapp.com/attachments/917372097322422275/920698906445234307/SrcNjqbEqnLrA.bin
 https://cdn.discordapp.com/attachments/917374693441417219/920697272533143572/AKfClh.bin
@@ -10429,7 +10428,6 @@ https://cdn.discordapp.com/attachments/921090897742008343/921091077920944138/Non
 https://cdn.discordapp.com/attachments/922248885907370034/922428833007816775/XgEhYlZbrjqoxmasniggas.bin
 https://cdn.discordapp.com/attachments/922458812584173611/922511777076494376/ylSljTkgkucVIUmaga2022.bin
 https://cdn.discordapp.com/attachments/922594541897383969/923136901089730590/wuOYPpVMmOZjesusismyfriend.bin
-https://cdn.discordapp.com/attachments/922596830204817432/923136020944396349/RnXEEJjesusismyfriend.bin
 https://cdn.discordapp.com/attachments/922596830204817432/923136024928980992/QkITMGbjesusismyfriend.bin
 https://cdn.discordapp.com/attachments/922596830204817432/923136071695499314/nvDAaROKBvGlKUjesusismyfriend.bin
 https://cdn.discordapp.com/attachments/922596830204817432/923136118688473088/hRoweFghxxImYrjesusismyfriend.bin
@@ -10440,7 +10438,6 @@ https://cdn.discordapp.com/attachments/922600634404966413/923135234365616128/LcV
 https://cdn.discordapp.com/attachments/922600634404966413/923135254619906128/RWRYSdaOEImKjesusismyfriend.bin
 https://cdn.discordapp.com/attachments/922600634404966413/923135258373816350/FYHqrUffRitoDfLjesusismyfriend.bin
 https://cdn.discordapp.com/attachments/922600634404966413/923135317513474068/kQNyZcDjnjesusismyfriend.bin
-https://cdn.discordapp.com/attachments/922603576168165389/923134310020689990/eTZQPjesusismyfriend.bin
 https://cdn.discordapp.com/attachments/922603576168165389/923134399833309214/BcnIiVjesusismyfriend.bin
 https://cdn.discordapp.com/attachments/922603576168165389/923134411069857872/ZdOWkgBjZJjesusismyfriend.bin
 https://cdn.discordapp.com/attachments/922603576168165389/923134415889129472/mLCZGjesusismyfriend.bin
@@ -10506,6 +10503,7 @@ https://codeload.github.com/mr-r3b00t/RDP_Backdoor/zip/refs/heads/main
 https://cofenator.ru/lt1jm4.php?redacted
 https://coffeewithunicorns.com/Fox-C/SWc0hmS/
 https://cokhithienan.vn/yqkswiyr1.zip
+https://colinde.pricesne.com/tc3l6pss.zip
 https://community.reimclub.com/ezmumkw.rar
 https://conquestcapital.co.ke/c.php?redacted
 https://contamaxcontabilidade.com/wp-admin/ETsIAg/
@@ -10704,7 +10702,6 @@ https://drkarnikatiwari.com/etunde/deserunthicpraesentium
 https://drkarnikatiwari.com/etunde/eligendiestaut
 https://drkarnikatiwari.com/etunde/voluptatemeummagni
 https://drsha.innovativesolutions.mobi/dyh3tb9j.zip
-https://dsenterprize.co.za/x3wwm4.zip
 https://dsr.eddyhunt.com/wp-admin/css/colors/aKbX4LQ0/
 https://dukaree.com/images_old/pZqGHXN39l8/
 https://dunsonkauai.com/wp-content/sBuZl83ZpNrfHxCeqVNt/
@@ -10750,6 +10747,7 @@ https://elav.pe/nsisntoub/gadiuqifispmieqtatuearme-uautu-q
 https://elav.pe/nsisntoub/ieeieiuecicqiurn-uvise-oltntrnddis
 https://elav.pe/nsisntoub/ilerdlmagiim--olanmovgolreertnoudieri
 https://elav.pe/nsisntoub/infurveat-n-urnmmeiligiaamaloemhu
+https://elav.pe/nsisntoub/lriresuiteseptnieqseavta-naidaditrgueet-
 https://elav.pe/nsisntoub/m-dscitltutasiiueae-piuvuiqpdqontoa
 https://elav.pe/nsisntoub/otam-nmetnesetttsucalitpsum-uevauacu
 https://elav.pe/nsisntoub/rvndplt-esiotetnspomrldsiratpbeugneeeuloleie-aui
@@ -10927,6 +10925,7 @@ https://fse.in.ua/layouts/WMIxdId0bHiS/TLEkWbN6b45Oki5fS/
 https://fullelectronica.com.ar/admin/white.exe
 https://fullelectronica.com.ar/image/link.exe
 https://fullelectronica.com.ar/test/HussanCrypted.exe
+https://fundacionwiese.com/vh7dzm/pXllDf4ThjnEjoLqvLJACsRvr3J4/
 https://furyx.de/NitroGen.exe
 https://fusionlogistics.com.ng/insaepe/aliquamquamtenetur
 https://fusionlogistics.com.ng/insaepe/ameteavoluptates
@@ -10939,6 +10938,7 @@ https://gardendriver.com/wp-content/vK4AE4Hy33cqBDAPnJ/
 https://gardeningio.com/wp-content/wFYvZqQ/
 https://gaucimagri.com/p/?redacted
 https://geo-lines.com/efi/l/g8wcaqeiw.zip
+https://geo-lines.com/efi/nx/cp/igrxd5r5.zip
 https://getwood.pt/ot2lu/WNae9Bzh5NlAK/
 https://giacongson.com.vn/d/?redacted
 https://giftgardening.com/wp-content/JNrT2llxy16TtibP/
@@ -10997,7 +10997,6 @@ https://harmoniconcept.com/vqmod/onzuWNgSI89j06/
 https://hashtagmedia.co.in/eligendisint/legunturinformationis-856847
 https://hdkamera2003.hu/j0pi9bvqc.tar
 https://hellogorgeous.com.au/unkg6jysz.zip
-https://helpfoundation.uxgorilla.com/g/?redacted
 https://heyyou6013.lowjunnhoi.repl.co/downloads/exe/pysnake.exe
 https://hhaward.org/q3qdb4g5.zip
 https://himganic.com/lxlk6xe4n.tar
@@ -11463,6 +11462,7 @@ https://neosmayorista.com/ipsumlibero/atdoloresrerum
 https://neosmayorista.com/ipsumlibero/inquaeaccusamus
 https://neosmayorista.com/ipsumlibero/odiovoluptatibusaut
 https://neoxora.lk/gctt7de.zip
+https://networkwheels.co.za/no61soo9m.zip
 https://nevermiss.su/nevermiss.exe
 https://newtechco.com.vn/wp-content/9/
 https://newtechco.com.vn/wp-content/Q/
@@ -11511,12 +11511,14 @@ https://office365.bellboyindia.com/nihilvero/monstrareelaturum-763059
 https://office365.bellboyindia.com/nihilvero/morumposituros-394081
 https://office365.bellboyindia.com/nihilvero/multilinguessanetis-949780
 https://office365.bellboyindia.com/nihilvero/vetustasintrante-448398
+https://ojasdaily.com.au/y/?redacted
 https://ombrapiatta.com/dhl/?4kvzlxu36kcojdmzwht2bw5u2ksjfle6rddir3uoqc567dgtwhukvqehtcxibaesq2jjv3ub5kn6fn7i2txnpzout6sovu76v2o27af252v6jcxbzx6jj3md4glovlpgsgmiruww76yjvuuwqxagpby
 https://oms.pappai.com/is0wuuwa.tar
 https://omscoc.pappai.com/a0y7i8h.zip
 https://onebet.co.ug/wp-content/NTtesKah
 https://onebet.co.ug/wp-content/NTtesKah/
 https://online.creedglobal.in/iz8jiri.rar
+https://onlinecasinosonfire.com/a/?redacted
 https://on-sights.com/y.php?redacted
 https://orangedoorrequest.com/y.php?redacted
 https://ordereasy.hk/error/8BZswf/
@@ -11627,7 +11629,6 @@ https://perfectenergy.in/autpossimus/quibusdamametut
 https://perfectenergy.in/autpossimus/quidoloremquos
 https://pertamaperkasa55vr.com/wp-content/wpo-cache/sm/
 https://pettyrock.com/gatter/2XITdr4rShQ0fN8U/
-https://piemontesasaffitti.e-bill.it/institutional.php
 https://piemontesasaffitti.e-bill.it/pacific.php
 https://piemontesasaffitti.e-bill.it/trademarked.php
 https://pikasho.com/trck/?5wkjvymuzwf5xavgx33lpzf27wv2pi6oq75ijun7uor75b5cx3d2fy4lu6423nfarlsyd7f7ykl7bjgxt36ivto3vwr5rbgrtoqlp4nv2gqmjj6rt3amf4nbvwt5diphx6qydjuoycx2lavjdwxfvwa
@@ -11653,6 +11654,7 @@ https://projeniolustur.com/zef08is.tar
 https://promas.com/download/Install_Rental_LL12_2018_4.exe
 https://promoversdubai.com/zb2pxd.zip
 https://propmentor.com/qs/?redacted
+https://prosupport.cl/o03svm8uz.zip
 https://provantagemtn.co.za/cgg/65376345273497047251/storm.exe
 https://proyectartpanama.com/xca8nx.jpg
 https://prueba2.adivertirse.com.mx/f7wnn0i.tar
@@ -11805,6 +11807,7 @@ https://solarforafrica.net/z0sj6h.zip
 https://source3.boys4dayz.com/installer.exe
 https://spaceframe.mobi.space-frame.co.za/agha25.tar
 https://sparcalabar.lightzillion.com/quisipsa/finitaaliquot-594792
+https://spetsesyachtcharter.gr/share/148.dll
 https://spetsesyachtcharter.gr/share/mon92.dll
 https://spetsesyachtcharter.gr/share/mon92_cr.dll
 https://spetsesyachtcharter.gr/share/mon94.dll
