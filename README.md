@@ -1,2 +1,1 @@
-# MaliciousDomain
-List of Malicious Active Domains
+# Threat Intelligence feeds
