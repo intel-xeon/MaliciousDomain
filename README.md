@@ -1,2 +1,2 @@
 # MaliciousDomain
-List of Malicious Domain
+List of Malicious Active Domains
