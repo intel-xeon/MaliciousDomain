@@ -1,4 +1,4 @@
-#Log4j IoC
+#Log4j IoC from Microsoft Threat Intelligence Center (MSTIC)
 1.116.59.211
 1.15.84.219
 1.179.247.182
