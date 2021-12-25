@@ -959,6 +959,7 @@ http://112.27.80.98:41265/Mozi.m
 http://112.27.87.130:51876/bin.sh
 http://112.27.87.130:51876/i
 http://112.27.87.130:51876/Mozi.a
+http://112.27.87.130:51876/Mozi.m
 http://112.27.87.213:44575/Mozi.m
 http://112.30.1.119:38493/Mozi.m
 http://112.30.1.139:59080/bin.sh
@@ -1032,6 +1033,7 @@ http://112.30.110.62:36350/bin.sh
 http://112.30.110.62:36350/Mozi.m
 http://112.30.110.65:52534/Mozi.a
 http://112.30.35.237:49990/bin.sh
+http://112.30.35.237:49990/i
 http://112.30.35.237:49990/Mozi.a
 http://112.30.37.188:44585/Mozi.m
 http://112.30.38.98:50513/bin.sh
@@ -1075,6 +1077,7 @@ http://112.31.176.16:44242/Mozi.m
 http://112.31.211.135:58105/i
 http://112.31.211.135:58105/Mozi.a
 http://112.31.211.135:58105/Mozi.m
+http://112.31.67.95:45673/mozi.m
 http://112.31.72.39:33403/bin.sh
 http://112.31.72.39:33403/i
 http://112.31.72.39:33403/Mozi.m
@@ -1651,6 +1654,7 @@ http://116.74.125.175:60601/i
 http://116.74.22.80:38964/mozi.m
 http://116.75.195.251:41434/i
 http://116.75.196.6:45897/Mozi.m
+http://116.75.197.248:36466/Mozi.m
 http://116.75.211.130:36225/Mozi.m
 http://116.75.212.122:33145/Mozi.m
 http://116.75.215.235:53159/Mozi.m
@@ -2704,6 +2708,7 @@ http://124.132.36.88:41035/Mozi.a
 http://124.132.36.88:41035/Mozi.m
 http://124.135.219.80:33321/bin.sh
 http://124.135.219.80:33321/Mozi.m
+http://124.153.136.175:2459/i
 http://124.153.136.175:2459/Mozi.a
 http://124.153.136.175:2459/Mozi.m
 http://124.153.236.6:5889/.i
@@ -2813,7 +2818,6 @@ http://125.41.235.223:52130/Mozi.m
 http://125.41.3.146:46897/Mozi.m
 http://125.41.4.30:59281/bin.sh
 http://125.41.4.30:59281/Mozi.m
-http://125.41.88.96:37374/Mozi.m
 http://125.41.9.100:38421/Mozi.m
 http://125.41.9.234:40099/Mozi.m
 http://125.41.97.124:33083/Mozi.m
@@ -3093,6 +3097,7 @@ http://158.174.218.29:46905/mozi.m
 http://158.222.165.33:42666/.i
 http://158.222.234.146:15359/.i
 http://162.191.249.195:55626/Mozi.a
+http://162.191.249.195:55626/Mozi.m
 http://162.194.28.60:17442/.i
 http://162.209.98.174/ssh1
 http://162.224.157.135:5108/.i
@@ -3397,6 +3402,7 @@ http://175.11.67.242:55271/mozi.m
 http://175.11.70.48:47822/Mozi.m
 http://175.11.74.9:58159/Mozi.a
 http://175.11.74.9:58159/Mozi.m
+http://175.11.8.117:39343/i
 http://175.11.8.117:39343/Mozi.m
 http://175.111.56.160:55456/bin.sh
 http://175.111.56.160:55456/i
@@ -3724,6 +3730,7 @@ http://182.116.97.244:58739/Mozi.m
 http://182.116.99.23:47022/Mozi.m
 http://182.117.10.64:41739/Mozi.m
 http://182.117.12.84:57939/bin.sh
+http://182.117.12.84:57939/i
 http://182.117.123.141:37512/Mozi.m
 http://182.117.174.19:59361/i
 http://182.117.188.27:43573/mozi.m
@@ -4604,7 +4611,6 @@ http://217.133.100.91:29431/.i
 http://217.145.193.216:21280/.i
 http://217.210.104.187:8429/.i
 http://217.36.225.237:8380/.i
-http://217.74.246.80:33555/Mozi.a
 http://217.8.228.92:33730/Mozi.a
 http://217.8.228.92:33730/Mozi.m
 http://218.11.104.83:38597/bin.sh
@@ -4880,6 +4886,7 @@ http://221.215.78.39:39006/Mozi.m
 http://221.227.103.90:34726/Mozi.m
 http://221.229.228.30:37572/Mozi.m
 http://221.230.193.168:33196/Mozi.m
+http://221.232.196.31:39428/i
 http://221.232.196.31:39428/Mozi.a
 http://221.232.196.31:39428/Mozi.m
 http://221.232.29.7:44110/bin.sh
@@ -5580,7 +5587,6 @@ http://27.43.124.122:48530/Mozi.m
 http://27.43.127.243:45458/Mozi.m
 http://27.43.201.68:38721/Mozi.m
 http://27.44.68.65:40709/Mozi.m
-http://27.45.11.33:58008/Mozi.m
 http://27.45.113.97:60487/Mozi.a
 http://27.45.115.4:53770/Mozi.a
 http://27.45.115.4:53770/Mozi.m
@@ -5622,7 +5628,9 @@ http://27.47.115.184:36469/Mozi.m
 http://27.47.124.93:54695/Mozi.m
 http://27.47.75.227:46514/Mozi.m
 http://27.5.35.254:44652/Mozi.m
+http://27.6.47.150:49824/mozi.a
 http://27.64.157.86:33022/.i
+http://27.7.178.19:41936/i
 http://27.74.165.87:42251/.i
 http://27.77.250.194:30647/.i
 http://27.8.63.120:43874/bin.sh
@@ -7723,6 +7731,7 @@ http://anicert.cn/vpn_client.exe
 http://animalcare.ga/wp-admin/rOhnPCljx/
 http://anythingblack.tecocraft.net/wp-content/ebDfqgB/
 http://aosafrica.co.za/5j1ae/ApMYYqsc6Q3p5Y/
+http://api.52kkg.com/autokey/update/AUTOKEY.exe
 http://api.huokejinglingvip.com/coldblooded.php
 http://api.huokejinglingvip.com/subbed.php
 http://api.pinkparlour.asia/wp-content/xutuaJWKmqMe/
@@ -8454,8 +8463,11 @@ http://galaxy.managesquare.com/assets/x/
 http://gastronews.by/efi/8/ipi5e1u5r.zip
 http://gastronews.by/efi/acc/mcv/vst/jmlv48u.zip
 http://gastronews.by/efi/enob610gsc.zip
+http://gastronews.by/efi/exg/dpq/jbg/gsektct.zip
 http://gastronews.by/efi/m/3amookohp.zip
 http://gastronews.by/efi/qvwewutjw8.zip
+http://gastronews.by/efi/udi/krb/2js/jcetw6q.zip
+http://gastronews.by/efi/uzoo8crhd8.zip
 http://gaurav.wpsupport.urdemo.website/lm8csk4/L7nyydsxfzZVX6/
 http://gbsports.kiev.ua/ey4hvw.php?redacted
 http://genebank.iita.org/well-known/VeewA4RIRob/
@@ -8662,6 +8674,7 @@ http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
 http://jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 http://journeypropertysolutions.com/cterq/1BkGCjiTIQS5/
 http://journeypropertysolutions.com/x/?redacted
+http://jurnalismictv.com/efi/hgeqh8ft3d.zip
 http://jurnalismictv.com/efi/u/aha4fgvlg.zip
 http://justinscott.com.au/sites/lkgdo8n23944724420966539o7t3zhy3avwz/
 http://justinscott.com.au/sites/rRS/
@@ -9596,6 +9609,7 @@ http://theshowroomwholesale.com/rkpp7k/Pxx6nCg1X/
 http://thetrendskill.com/wp-content/e/
 http://theunikbookery.com/noncanvassing/7ko/
 http://thevapestore.by/efi/1uxtxt11qz.zip
+http://thevapestore.by/efi/67/ge/hdxuv6fa.zip
 http://thevapestore.by/efi/d/zftpyyqaw.zip
 http://thevapestore.by/efi/d9s/xlx/suw/tfg1dle.zip
 http://thevapestore.by/efi/jl/3v/bskf0tcc.zip
@@ -9677,6 +9691,7 @@ http://unitedengineeringco.com/j.php?redacted
 http://unitedforher.flapbead.com/aliaset/consequaturcumque-doloreadipisci
 http://unitedforher.flapbead.com/aliaset/delectuset-accusantiumtotam
 http://unitedforher.flapbead.com/aliaset/earumvoluptatem-utomnis
+http://unitedforher.flapbead.com/aliaset/eatempora-expeditafugit
 http://unitedforher.flapbead.com/aliaset/nequeplaceat-cupiditatedolores
 http://unitedforher.flapbead.com/aliaset/occaecatirerum-remquia
 http://unitedforher.flapbead.com/aliaset/quodest-possimusconsequatur
