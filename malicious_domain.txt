@@ -167,6 +167,7 @@ http://100.12.51.122:26285/.i
 http://100.35.47.56:18957/.i
 http://100.38.34.189:38453/.i
 http://1008691.com/wordpress/parts_service/
+http://101.0.42.74:41276/Mozi.m
 http://101.108.1.121:56793/Mozi.m
 http://101.108.15.183:36957/mozi.a
 http://101.109.242.59:50081/Mozi.a
@@ -512,7 +513,6 @@ http://110.85.110.175:55295/bin.sh
 http://110.85.98.58:58399/Mozi.m
 http://110.86.189.32:48749/mozi.m
 http://110.89.10.170:57757/i
-http://110.89.9.60:36563/bin.sh
 http://110.89.9.60:36563/i
 http://111.118.106.143:4840/Mozi.m
 http://111.118.111.207:2857/Mozi.a
@@ -613,7 +613,6 @@ http://111.38.26.189:59456/Mozi.m
 http://111.38.31.168:50912/Mozi.a
 http://111.38.31.168:50912/Mozi.m
 http://111.38.31.168:50912/i
-http://111.61.154.107:43947/Mozi.m
 http://111.61.154.107:56094/Mozi.m
 http://111.61.154.107:58511/Mozi.m
 http://111.70.13.130:54189/i
@@ -700,7 +699,6 @@ http://112.238.228.65:47440/bin.sh
 http://112.238.228.65:47440/i
 http://112.238.228.65:47440/mozi.m
 http://112.238.229.222:51643/Mozi.m
-http://112.238.237.232:59687/Mozi.m
 http://112.238.34.250:41042/Mozi.m
 http://112.238.34.250:41042/bin.sh
 http://112.238.34.250:41042/i
@@ -774,7 +772,6 @@ http://112.248.108.163:49490/Mozi.m
 http://112.248.108.163:49490/bin.sh
 http://112.248.108.163:49490/i
 http://112.248.108.189:57039/Mozi.m
-http://112.248.108.197:50311/Mozi.m
 http://112.248.108.213:33603/Mozi.m
 http://112.248.109.181:33471/Mozi.m
 http://112.248.109.62:59570/Mozi.m
@@ -900,6 +897,7 @@ http://112.30.1.139:59080/Mozi.m
 http://112.30.1.139:59080/bin.sh
 http://112.30.1.139:59080/i
 http://112.30.1.150:34613/Mozi.a
+http://112.30.1.150:34613/Mozi.m
 http://112.30.1.150:34613/i
 http://112.30.1.152:44153/Mozi.m
 http://112.30.1.152:44153/bin.sh
@@ -1096,7 +1094,6 @@ http://113.17.176.111:39668/bin.sh
 http://113.170.166.58:58004/Mozi.m
 http://113.170.48.84:32881/Mozi.m
 http://113.170.51.74:44040/bin.sh
-http://113.170.51.74:44040/i
 http://113.174.159.228:58491/Mozi.m
 http://113.174.96.23:58095/Mozi.m
 http://113.175.184.207:50032/Mozi.m
@@ -1185,7 +1182,6 @@ http://113.4.176.55:45735/Mozi.a
 http://113.4.177.184:41939/i
 http://113.53.228.47:13610/3EBCE3A4.Png
 http://113.56.80.82:46873/bin.sh
-http://113.56.80.82:46873/i
 http://113.56.80.82:46873/mozi.a
 http://113.57.149.117:46633/Mozi.a
 http://113.57.149.117:46633/Mozi.m
@@ -1442,9 +1438,9 @@ http://115.54.112.31:43945/Mozi.m
 http://115.54.124.100:58625/Mozi.m
 http://115.54.127.200:42030/Mozi.a
 http://115.54.128.185:37397/Mozi.a
+http://115.54.145.215:55802/bin.sh
 http://115.54.168.36:44245/Mozi.m
 http://115.54.194.22:34285/Mozi.m
-http://115.54.194.27:47385/i
 http://115.54.214.209:45742/Mozi.m
 http://115.54.215.183:36215/Mozi.m
 http://115.54.220.185:43359/Mozi.m
@@ -1567,12 +1563,12 @@ http://115.63.50.19:49326/i
 http://115.63.50.250:48324/Mozi.m
 http://115.63.51.58:58426/Mozi.m
 http://115.63.8.44:40822/Mozi.m
-http://115.69.102.12:2983/Mozi.m
 http://115.73.142.156:48508/.i
 http://115.74.30.128:19072/.i
 http://115.75.191.22:26695/.i
 http://115.75.217.79:48910/.i
 http://115.88.206.32:33555/Mozi.m
+http://115.96.44.218:35009/Mozi.m
 http://115.96.47.222:35712/i
 http://115.97.195.103:45941/Mozi.m
 http://115.98.177.179:51317/bin.sh
@@ -1671,6 +1667,7 @@ http://116.74.23.190:51739/Mozi.m
 http://116.74.254.220:40394/i
 http://116.74.28.222:55855/Mozi.m
 http://116.74.68.81:35712/bin.sh
+http://116.75.193.167:56906/Mozi.a
 http://116.75.195.27:56469/Mozi.m
 http://116.75.197.203:60900/Mozi.m
 http://116.75.209.16:41800/i
@@ -1683,6 +1680,7 @@ http://117.132.4.248:51264/Mozi.a
 http://117.132.4.248:51264/Mozi.m
 http://117.132.4.248:51264/i
 http://117.14.166.217:34084/Mozi.a
+http://117.14.71.224:34084/Mozi.m
 http://117.176.115.16:2661/.i
 http://117.193.106.17:45927/Mozi.m
 http://117.193.108.34:46537/bin.sh
@@ -1827,12 +1825,11 @@ http://117.207.228.6:52843/Mozi.a
 http://117.207.229.143:54398/bin.sh
 http://117.207.229.143:54398/i
 http://117.207.229.244:51937/Mozi.m
-http://117.207.234.232:35728/Mozi.m
+http://117.207.232.128:55217/Mozi.m
 http://117.207.234.247:41583/Mozi.m
 http://117.207.239.238:56212/i
 http://117.208.136.168:47632/Mozi.a
 http://117.208.136.50:44624/Mozi.m
-http://117.208.137.161:44012/Mozi.m
 http://117.208.137.226:39344/bin.sh
 http://117.208.137.226:39344/i
 http://117.208.137.226:39344/mozi.m
@@ -1851,7 +1848,6 @@ http://117.213.228.127:53308/bin.sh
 http://117.213.229.22:37726/Mozi.m
 http://117.213.230.97:59867/bin.sh
 http://117.213.230.99:40929/Mozi.m
-http://117.213.231.198:59335/Mozi.m
 http://117.213.42.120:49634/i
 http://117.213.42.151:53303/Mozi.m
 http://117.213.42.186:59628/Mozi.m
@@ -1859,6 +1855,7 @@ http://117.213.44.112:35633/Mozi.m
 http://117.213.44.140:54643/bin.sh
 http://117.213.44.81:36311/Mozi.m
 http://117.213.46.238:46303/Mozi.m
+http://117.213.9.124:43823/Mozi.m
 http://117.215.200.253:32882/Mozi.m
 http://117.215.200.253:32882/i
 http://117.215.202.96:49775/bin.sh
@@ -1874,11 +1871,9 @@ http://117.215.212.120:56209/bin.sh
 http://117.215.212.120:56209/i
 http://117.215.212.148:44318/Mozi.m
 http://117.215.213.35:39447/Mozi.m
-http://117.215.241.127:59820/Mozi.m
 http://117.215.245.233:55229/i
 http://117.215.246.154:43134/Mozi.m
 http://117.215.249.0:55229/Mozi.a
-http://117.215.249.128:53136/bin.sh
 http://117.215.249.128:53136/i
 http://117.215.249.185:40475/Mozi.m
 http://117.215.249.185:40475/bin.sh
@@ -1890,7 +1885,6 @@ http://117.215.250.64:38429/i
 http://117.215.251.95:57684/Mozi.a
 http://117.215.252.233:47882/bin.sh
 http://117.215.254.238:48857/Mozi.m
-http://117.215.254.238:48857/i
 http://117.217.147.117:35890/i
 http://117.217.150.68:42155/Mozi.m
 http://117.217.151.141:48925/Mozi.m
@@ -1904,7 +1898,6 @@ http://117.221.180.108:57337/bin.sh
 http://117.221.180.108:57337/i
 http://117.221.181.3:56725/Mozi.a
 http://117.221.182.174:37447/bin.sh
-http://117.221.183.119:53426/mozi.m
 http://117.221.183.250:34234/Mozi.m
 http://117.221.184.112:38808/bin.sh
 http://117.221.184.112:38808/i
@@ -1929,7 +1922,6 @@ http://117.223.82.176:36170/Mozi.m
 http://117.223.82.223:38118/bin.sh
 http://117.223.82.99:37709/Mozi.m
 http://117.223.85.249:38105/Mozi.m
-http://117.223.86.201:58127/Mozi.m
 http://117.223.91.103:50099/i
 http://117.223.93.214:41530/Mozi.m
 http://117.223.93.78:52030/bin.sh
@@ -1957,7 +1949,6 @@ http://117.251.48.154:37455/Mozi.a
 http://117.251.49.202:52181/Mozi.m
 http://117.251.51.61:40681/bin.sh
 http://117.251.54.208:49428/Mozi.m
-http://117.251.60.177:40139/bin.sh
 http://117.251.62.133:46467/Mozi.m
 http://117.26.110.150:47451/Mozi.a
 http://117.26.110.150:47451/mozi.m
@@ -2160,6 +2151,7 @@ http://119.118.48.209:38295/i
 http://119.119.33.141:40296/i
 http://119.123.126.175:33939/Mozi.m
 http://119.123.126.225:37151/Mozi.m
+http://119.123.175.26:40186/Mozi.m
 http://119.123.221.48:36007/Mozi.a
 http://119.123.224.246:58112/Mozi.m
 http://119.123.224.64:40975/Mozi.m
@@ -2214,6 +2206,7 @@ http://119.178.244.160:33001/Mozi.a
 http://119.178.244.160:33001/Mozi.m
 http://119.178.255.2:36092/Mozi.m
 http://119.178.61.101:12163/i
+http://119.179.107.125:52712/bin.sh
 http://119.179.15.229:49134/Mozi.m
 http://119.179.154.146:47359/Mozi.a
 http://119.179.154.146:47359/Mozi.m
@@ -2269,7 +2262,6 @@ http://119.185.137.60:44080/Mozi.m
 http://119.185.237.75:33620/i
 http://119.186.205.167:38610/Mozi.m
 http://119.186.205.167:38610/mozi.a
-http://119.186.208.206:53597/Mozi.a
 http://119.186.208.62:35806/Mozi.m
 http://119.186.209.239:59394/Mozi.m
 http://119.186.211.67:34675/Mozi.m
@@ -2342,6 +2334,7 @@ http://119.99.201.165:59571/bin.sh
 http://119.99.202.92:40673/bin.sh
 http://119.99.202.92:40673/i
 http://119.99.232.198:60280/Mozi.m
+http://119.99.232.198:60280/i
 http://119.99.247.186:53068/Mozi.m
 http://119.99.247.186:53068/bin.sh
 http://119.99.247.186:53068/i
@@ -2513,7 +2506,6 @@ http://121.23.227.193:38651/Mozi.m
 http://121.23.57.191:55971/Mozi.a
 http://121.23.57.191:55971/Mozi.m
 http://121.23.57.191:55971/i
-http://121.23.74.2:37982/Mozi.a
 http://121.23.74.2:37982/Mozi.m
 http://121.23.74.2:37982/bin.sh
 http://121.23.74.2:37982/i
@@ -2619,6 +2611,7 @@ http://123.10.18.112:50631/Mozi.m
 http://123.10.192.192:52501/Mozi.m
 http://123.10.221.246:58693/Mozi.m
 http://123.10.57.94:47883/i
+http://123.10.61.78:36230/Mozi.m
 http://123.11.127.30:51925/Mozi.m
 http://123.11.13.156:49563/Mozi.m
 http://123.11.14.110:54435/Mozi.m
@@ -2723,7 +2716,6 @@ http://123.14.111.107:46562/Mozi.m
 http://123.14.111.71:59733/Mozi.m
 http://123.14.112.41:47092/mozi.a
 http://123.14.165.108:48832/Mozi.m
-http://123.14.168.92:43730/bin.sh
 http://123.14.168.92:43730/i
 http://123.14.186.219:60442/mozi.m
 http://123.14.197.178:40340/mozi.m
@@ -2887,6 +2879,7 @@ http://123.4.92.190:49825/Mozi.m
 http://123.4.92.232:35690/Mozi.a
 http://123.4.93.240:41650/Mozi.m
 http://123.4.94.238:45706/i
+http://123.4.94.44:53226/Mozi.m
 http://123.4.94.47:37867/Mozi.m
 http://123.4.94.47:37867/mozi.a
 http://123.4.94.80:45251/Mozi.m
@@ -2948,7 +2941,6 @@ http://124.105.105.222:52319/bin.sh
 http://124.105.105.222:52319/i
 http://124.129.140.124:51302/Mozi.m
 http://124.129.140.124:51302/mozi.a
-http://124.131.113.43:47117/Mozi.m
 http://124.131.131.51:41800/Mozi.m
 http://124.131.131.51:41800/bin.sh
 http://124.131.131.51:41800/i
@@ -3123,6 +3115,7 @@ http://125.42.8.120:56377/Mozi.m
 http://125.42.98.76:37780/Mozi.m
 http://125.42.98.76:37780/bin.sh
 http://125.42.98.76:37780/i
+http://125.42.99.182:43506/bin.sh
 http://125.43.0.153:51304/i
 http://125.43.10.222:53629/Mozi.a
 http://125.43.102.105:56549/Mozi.m
@@ -3393,12 +3386,10 @@ http://154.126.178.16:30629/.i
 http://154.91.192.252/bins/UnHAnaAW.arm
 http://154.91.192.252/bins/UnHAnaAW.arm6
 http://154.91.192.252/bins/UnHAnaAW.arm7
-http://154.91.192.252/bins/UnHAnaAW.m68k
 http://154.91.192.252/bins/UnHAnaAW.mpsl
 http://154.91.192.252/bins/UnHAnaAW.ppc
 http://154.91.192.252/bins/UnHAnaAW.sh4
 http://154.91.192.252/bins/UnHAnaAW.spc
-http://154.91.192.252/bins/UnHAnaAW.x86
 http://155.94.228.223/upsupx2.exe
 http://157.0.202.182:40145/Mozi.m
 http://158.101.165.14/yakuza.arm4
@@ -3487,7 +3478,6 @@ http://163.204.213.97:41743/Mozi.m
 http://163.204.215.78:53985/Mozi.m
 http://163.204.216.169:41888/Mozi.a
 http://163.204.217.118:56195/Mozi.m
-http://163.53.206.228:57100/Mozi.a
 http://163.53.206.228:57100/Mozi.m
 http://163.53.206.228:58078/bin.sh
 http://163.53.206.228:58078/i
@@ -3694,6 +3684,7 @@ http://175.10.18.21:36679/Mozi.m
 http://175.10.18.21:36679/bin.sh
 http://175.10.18.21:36679/i
 http://175.10.188.234:48479/Mozi.m
+http://175.10.188.234:48479/bin.sh
 http://175.10.243.83:51494/Mozi.a
 http://175.10.243.83:51494/Mozi.m
 http://175.10.50.121:42891/Mozi.a
@@ -3854,7 +3845,6 @@ http://176.221.188.104:56776/Mozi.a
 http://176.221.206.69:41495/Mozi.m
 http://176.221.206.69:41495/mozi.a
 http://176.221.251.147:46439/Mozi.a
-http://176.221.251.238:56656/Mozi.a
 http://176.240.18.92:11418/.i
 http://176.35.202.86:54593/.i
 http://177.116.26.202:55807/Mozi.m
@@ -3973,6 +3963,7 @@ http://180.163.61.172:46037/bin.sh
 http://180.163.61.172:46037/i
 http://180.176.105.41:40592/.i
 http://180.176.110.91:46215/mozi.a
+http://180.176.165.230:61968/.i
 http://180.176.181.15:59289/Mozi.m
 http://180.176.214.171:51911/Mozi.a
 http://180.176.214.171:51911/Mozi.m
@@ -4035,6 +4026,7 @@ http://181.211.190.10:9014/.i
 http://181.214.152.249/blog/posts/384.exe
 http://181.214.152.249/blog/posts/385.exe
 http://181.214.152.249/blog/posts/387.exe
+http://181.214.152.249/blog/posts/388.exe
 http://181.214.152.249/blog/posts/sefile.exe
 http://181.214.152.249/blog/posts/sufile.exe
 http://181.224.242.131:59072/.i
@@ -4081,7 +4073,6 @@ http://182.114.129.91:46428/mozi.a
 http://182.114.197.234:44083/Mozi.m
 http://182.114.200.107:36450/mozi.a
 http://182.114.213.56:42026/mozi.a
-http://182.114.25.190:43286/Mozi.m
 http://182.114.25.190:43286/i
 http://182.114.27.85:35227/Mozi.m
 http://182.114.48.234:58866/Mozi.m
@@ -4281,7 +4272,6 @@ http://182.127.128.40:60053/Mozi.m
 http://182.127.134.124:33071/Mozi.m
 http://182.127.136.205:43318/Mozi.m
 http://182.127.137.80:42436/Mozi.m
-http://182.127.138.236:41544/Mozi.m
 http://182.127.152.47:44509/Mozi.m
 http://182.127.177.191:39190/Mozi.m
 http://182.127.179.84:35204/i
@@ -4605,6 +4595,7 @@ http://189.85.34.143:53046/i
 http://189.85.34.153:55123/bin.sh
 http://189.85.34.153:55123/i
 http://189.85.34.153:55123/mozi.m
+http://189.85.34.176:45039/Mozi.a
 http://189.85.34.176:45039/i
 http://189.85.34.74:53812/Mozi.a
 http://189.85.34.74:53812/bin.sh
@@ -4728,7 +4719,6 @@ http://196.25.96.72:27943/.i
 http://196.41.215.153:15979/.i
 http://196.75.176.99:58494/Mozi.m
 http://196.77.26.124:39812/bin.sh
-http://196.77.26.124:39812/i
 http://197.221.144.22:2660/.i
 http://197.232.104.127:40361/Mozi.a
 http://197.232.104.127:40361/Mozi.m
@@ -4787,7 +4777,6 @@ http://198.46.199.153/invoiceshp/invoice_00400500606006700700.wbk
 http://198.46.199.153/receipt/invoice_00070008080.wbk
 http://199.203.204.116:1993/.i
 http://1skt.com/j/?redacted
-http://1stnail.zoomworld.vn/wp-admin/WmufjjCNwTT/
 http://2.106.156.53:41935/Mozi.a
 http://2.106.156.53:41935/Mozi.m
 http://2.106.156.53:41935/bin.sh
@@ -4826,6 +4815,7 @@ http://2.58.149.123/bins/x86
 http://2.58.149.206/reader
 http://2.58.149.206/star
 http://2.58.149.34/bins//arm7
+http://2.58.149.34/bins/arm6
 http://2.58.149.34/bins/ppc
 http://2.58.149.34/bins/sh4
 http://2.58.149.34/bins/x86
@@ -5088,7 +5078,6 @@ http://212.192.241.44/POWERPC
 http://212.192.241.44/SH4
 http://212.192.241.44/SPARC
 http://212.192.241.44/X86_64
-http://212.193.30.29/EU/1412111500eu.exe
 http://212.193.30.29/EU/soft500eu.exe
 http://212.193.30.29/USA/111_450us.exe
 http://212.193.30.29/download/Cube_WW14.bmp
@@ -5099,7 +5088,6 @@ http://212.200.115.20:13720/.i
 http://212.45.27.112:16250/.i
 http://212.46.197.114:17739/.i
 http://213.101.190.120:12083/.i
-http://213.108.47.38:36249/bin.sh
 http://213.108.47.38:36249/i
 http://213.109.61.214:33878/Mozi.m
 http://213.123.124.58:30082/.i
@@ -5173,7 +5161,6 @@ http://218.72.207.53:36550/Mozi.m
 http://218.72.208.20:47969/Mozi.a
 http://218.72.208.20:47969/Mozi.m
 http://218.72.242.218:43551/mozi.a
-http://218.72.242.218:43551/mozi.m
 http://218.8.132.233:38269/Mozi.m
 http://218.81.119.230:40984/Mozi.a
 http://218.81.119.230:40984/Mozi.m
@@ -5204,6 +5191,7 @@ http://219.154.99.174:36735/Mozi.a
 http://219.155.110.88:59835/Mozi.a
 http://219.155.110.88:59835/bin.sh
 http://219.155.12.35:39992/i
+http://219.155.156.234:53570/Mozi.a
 http://219.155.158.63:35178/Mozi.m
 http://219.155.20.25:53630/Mozi.m
 http://219.155.203.56:56481/Mozi.m
@@ -5235,7 +5223,6 @@ http://219.156.40.177:56563/bin.sh
 http://219.156.41.133:57539/mozi.m
 http://219.156.76.202:33241/Mozi.m
 http://219.156.91.72:54833/Mozi.m
-http://219.156.92.232:54210/Mozi.m
 http://219.157.137.60:48574/Mozi.m
 http://219.157.137.60:48574/i
 http://219.157.143.63:42010/Mozi.m
@@ -5369,7 +5356,6 @@ http://221.15.14.12:57679/i
 http://221.15.145.55:57849/bin.sh
 http://221.15.145.55:57849/i
 http://221.15.147.12:50616/Mozi.m
-http://221.15.171.198:49368/Mozi.m
 http://221.15.177.45:51217/Mozi.m
 http://221.15.195.57:45613/Mozi.a
 http://221.15.225.87:54023/Mozi.m
@@ -5762,6 +5748,7 @@ http://27.190.195.126:52276/bin.sh
 http://27.190.195.126:52276/i
 http://27.190.195.126:52276/mozi.m
 http://27.191.40.46:52169/Mozi.m
+http://27.191.40.46:52169/bin.sh
 http://27.191.40.46:52169/i
 http://27.192.238.175:58019/Mozi.a
 http://27.193.146.90:40193/Mozi.a
@@ -5779,7 +5766,6 @@ http://27.196.225.123:59987/Mozi.m
 http://27.197.42.171:36648/Mozi.a
 http://27.197.42.171:36648/Mozi.m
 http://27.197.9.223:54367/Mozi.a
-http://27.198.66.169:46771/Mozi.m
 http://27.198.66.169:46771/bin.sh
 http://27.198.66.169:46771/i
 http://27.198.66.169:46771/mozi.a
@@ -5945,6 +5931,7 @@ http://27.215.210.130:40688/Mozi.m
 http://27.215.210.130:40688/i
 http://27.215.211.199:56858/Mozi.m
 http://27.215.211.207:42989/Mozi.m
+http://27.215.212.36:50460/Mozi.m
 http://27.215.215.248:58759/Mozi.m
 http://27.215.215.248:58759/i
 http://27.215.34.156:50813/Mozi.m
@@ -6011,7 +5998,6 @@ http://27.217.213.220:57859/i
 http://27.217.227.128:49143/Mozi.m
 http://27.217.227.128:49143/mozi.a
 http://27.218.77.187:53384/Mozi.m
-http://27.219.178.104:43663/Mozi.m
 http://27.219.99.74:51895/Mozi.a
 http://27.219.99.74:51895/Mozi.m
 http://27.220.119.160:57183/Mozi.m
@@ -6084,7 +6070,6 @@ http://27.40.89.137:35574/Mozi.m
 http://27.40.89.231:38981/Mozi.m
 http://27.41.37.10:43657/Mozi.m
 http://27.41.37.163:38677/Mozi.m
-http://27.41.4.217:49473/Mozi.m
 http://27.41.4.217:49473/mozi.a
 http://27.41.6.124:47814/Mozi.a
 http://27.41.6.36:34547/mozi.a
@@ -6101,6 +6086,7 @@ http://27.43.112.135:42789/mozi.a
 http://27.43.112.6:33959/Mozi.m
 http://27.43.113.184:55225/Mozi.a
 http://27.43.114.158:33004/Mozi.a
+http://27.43.114.178:33004/Mozi.m
 http://27.43.117.185:36841/mozi.a
 http://27.43.117.59:51360/Mozi.m
 http://27.43.117.59:51360/mozi.a
@@ -6161,6 +6147,7 @@ http://27.5.26.135:49164/Mozi.m
 http://27.5.26.2:34154/Mozi.m
 http://27.5.28.184:51998/Mozi.m
 http://27.5.28.206:41800/i
+http://27.5.32.149:54824/Mozi.m
 http://27.5.33.205:35357/mozi.m
 http://27.5.42.171:32858/Mozi.m
 http://27.5.46.99:54080/Mozi.m
@@ -6572,7 +6559,6 @@ http://42.224.70.137:36568/i
 http://42.224.71.82:60621/mozi.m
 http://42.224.74.202:50033/Mozi.m
 http://42.224.74.55:43855/mozi.m
-http://42.225.17.74:60877/Mozi.m
 http://42.225.196.200:52561/Mozi.m
 http://42.225.206.239:41544/Mozi.m
 http://42.225.207.23:53777/Mozi.m
@@ -6615,6 +6601,7 @@ http://42.230.145.245:58430/i
 http://42.230.198.156:57335/i
 http://42.230.200.173:39919/Mozi.m
 http://42.230.201.14:36111/Mozi.m
+http://42.230.219.180:47139/Mozi.m
 http://42.230.33.163:57799/Mozi.m
 http://42.230.39.150:57799/Mozi.m
 http://42.230.40.82:56990/Mozi.m
@@ -6663,7 +6650,6 @@ http://42.235.90.0:50880/Mozi.m
 http://42.235.90.0:50880/i
 http://42.235.96.9:39149/Mozi.m
 http://42.236.137.86:41048/i
-http://42.236.161.180:54073/Mozi.a
 http://42.236.161.180:54073/Mozi.m
 http://42.236.161.180:54073/bin.sh
 http://42.236.212.139:60259/Mozi.a
@@ -6871,7 +6857,6 @@ http://46.249.32.109/cc9x86
 http://46.249.32.109/mips
 http://46.249.32.109/snype.arm4
 http://46.249.32.109/snype.arm5
-http://46.249.32.109/snype.mips
 http://46.249.32.109/snype.mpsl
 http://46.249.32.109/snype.ppc
 http://46.249.32.109/snype.sh
@@ -7061,6 +7046,7 @@ http://58.249.10.164:60395/mozi.m
 http://58.249.14.115:56775/Mozi.m
 http://58.249.14.56:56904/mozi.a
 http://58.249.73.134:38607/mozi.a
+http://58.249.74.104:39471/Mozi.m
 http://58.249.74.117:49386/mozi.m
 http://58.249.74.194:38965/Mozi.m
 http://58.249.75.129:47932/Mozi.m
@@ -7276,12 +7262,12 @@ http://59.93.31.70:44796/Mozi.m
 http://59.93.87.99:51342/Mozi.a
 http://59.94.128.40:41002/bin.sh
 http://59.94.128.40:41002/i
-http://59.94.130.154:56798/mozi.a
 http://59.94.180.75:46496/mozi.m
 http://59.94.182.123:51645/Mozi.m
 http://59.94.182.126:60580/Mozi.m
 http://59.94.182.68:56365/Mozi.m
 http://59.94.183.186:53375/Mozi.m
+http://59.94.183.209:55077/Mozi.m
 http://59.94.192.208:40655/Mozi.m
 http://59.94.193.12:52460/Mozi.m
 http://59.94.193.236:49668/Mozi.a
@@ -7307,17 +7293,14 @@ http://59.95.75.188:49048/Mozi.m
 http://59.95.77.109:35455/bin.sh
 http://59.95.77.67:34001/Mozi.m
 http://59.95.79.124:39146/Mozi.m
-http://59.95.79.159:50883/Mozi.m
 http://59.96.24.38:43294/i
 http://59.96.240.190:36712/Mozi.a
-http://59.96.240.190:36712/Mozi.m
 http://59.96.241.139:57283/i
 http://59.96.245.173:52374/i
 http://59.96.247.95:54344/mozi.m
 http://59.96.26.61:57324/Mozi.m
 http://59.96.29.221:44958/Mozi.m
 http://59.96.36.212:60574/Mozi.m
-http://59.96.36.7:41697/i
 http://59.96.37.198:38105/Mozi.m
 http://59.96.46.33:33604/Mozi.m
 http://59.97.169.165:56043/bin.sh
@@ -7391,7 +7374,6 @@ http://60.18.191.49:36200/Mozi.m
 http://60.185.10.163:56652/Mozi.m
 http://60.185.106.9:46287/Mozi.a
 http://60.185.111.2:52033/mozi.m
-http://60.185.123.225:43203/Mozi.m
 http://60.185.201.152:45670/Mozi.m
 http://60.185.3.201:46468/Mozi.a
 http://60.185.3.201:46468/Mozi.m
@@ -7406,7 +7388,6 @@ http://60.209.211.16:56748/bin.sh
 http://60.209.211.16:56748/mozi.a
 http://60.209.247.168:56385/i
 http://60.21.22.159:53638/Mozi.m
-http://60.211.5.164:45997/Mozi.m
 http://60.211.5.164:45997/bin.sh
 http://60.211.65.17:47944/Mozi.m
 http://60.211.65.17:47944/i
@@ -7427,6 +7408,7 @@ http://60.214.52.160:51002/Mozi.m
 http://60.214.81.140:34832/Mozi.m
 http://60.214.81.140:34832/i
 http://60.215.14.244:42196/bin.sh
+http://60.215.14.244:42196/i
 http://60.215.191.217:36077/Mozi.a
 http://60.215.191.217:36077/Mozi.m
 http://60.215.198.35:56987/Mozi.a
@@ -7812,7 +7794,6 @@ http://8.210.133.129/designer.php
 http://8.210.133.129/epicurean.php
 http://8.210.133.129/haunch.php
 http://8.210.133.129/indicant.php
-http://8.210.133.129/late.php
 http://8.210.133.129/postage.php
 http://8.210.133.129/quarrelsome.php
 http://8.210.133.129/recluse.php
@@ -8435,6 +8416,7 @@ http://certification.jacsai.org/impregnated.php
 http://certification.jacsai.org/pressurizing.php
 http://certification.jacsai.org/purport.php
 http://certification.jacsai.org/supplant.php
+http://ceysaenerji.com.tr/lib/TbF/PdV/D33/josW4tv.zip
 http://cfs10.blog.daum.net/upload_control/download.blog?fhandle=MDczaFhAZnMxMC5ibG9nLmRhdW0ubmV0Oi9JTUFHRS8wLzkwLmV4ZQ==&filename=XP_SP3_%ED%85%8C%EB%A7%88%ED%8C%A8%EC%B9%98.exe
 http://cfs13.tistory.com/upload_control/download.blog?fhandle=YmxvZzE5MTk5NUBmczEzLnRpc3RvcnkuY29tOi9hdHRhY2gvMC8xNzAwMDAwMDAwMDAuZXhl&filename=oleaut32.dll%BF%C0%B7%F9%C7%D8%B0%E1%C7%CF%B1%E2.exe
 http://cfs13.tistory.com/upload_control/download.blog?fhandle=YmxvZzE5MTk5NUBmczEzLnRpc3RvcnkuY29tOi9hdHRhY2gvMC8xNzAwMDAwMDAwMDAuZXhl&filename=oleaut32.dll%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%D8%B0%EF%BF%BD%EF%BF%BD%CF%B1%EF%BF%BD.exe
@@ -8501,6 +8483,7 @@ http://ct.mba/go/?redacted
 http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/0S3IV/djXwRsYXhBteVdkkklgbtq.bin
 http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/23C7VS/FuIqaYBbGDFEGXBkkklgbtq.bin
 http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/2BN/ngKnznerdtRLqCLkkklgbtq.bin
+http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/8IUCRL/zGZysmcPkkklgbtq.bin
 http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/8QVA/mYEUXPpDSNYccsGkkklgbtq.bin
 http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/R32V2/UdjmnqyMktiYkkklgbtq.bin
 http://cucsur.udgvirtual.udg.mx/oa/2020/SisTur/UG5/HLYbnfSQpxkkklgbtq.bin
@@ -8795,6 +8778,7 @@ http://fromtofor.ca/redetermination/LMU7xEoFo782y347/
 http://fse.in.ua/layouts/Ble
 http://fse.in.ua/layouts/WMIxdId0bHiS
 http://fse.in.ua/layouts/WMIxdId0bHiS/
+http://fugeds.com/f.php?redacted
 http://fulltai.top/wp-includes/oKXYj/
 http://funletters.net/flowers/flowers1/smell-the-roses.exe
 http://funletters.net/greetings/greetings1/hiya.exe
@@ -8939,6 +8923,7 @@ http://k-antiques.jp/wp-includes/5obCvQ99K6lCsHDRe/
 http://karer.by/gfl7i3kp.rar
 http://kc4el.org/ecars/f.exe
 http://kdavisinsurancegroup.com/o/?redacted
+http://kenaridjaja.com/snap/O4/xK/UvDQNal0.zip
 http://kensingtondriving.com/ed809iss.zip
 http://khbd.41319.top/e/0N/
 http://kihonhair.com.br/wp-admin/images/L8VAtJj/
